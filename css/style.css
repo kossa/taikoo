@@ -9,7 +9,7 @@ img{max-width: 100%}
 
 
 /*Header*/
-#header a{color: #848687;}
+#header a{color: #848687;letter-spacing: 0.1em;}
 #header a:hover{color: #000;}
 #header #top{background-color: #E2E2E2;overflow: hidden;padding: 0;position: relative;z-index: 1;}
 #header #top ul{margin: 0 0 0 -5px;}
