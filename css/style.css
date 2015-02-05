@@ -104,14 +104,18 @@ footer#footer a{font-family: 'proxima_nova_rgbold', sans-serif;font-size: 16px;c
     .navbar-toggle span{background-color: #fff;}
     #header .navbar{margin-left: 0;}
     #header .navbar-nav>li:last-of-type{float: none;}
-    .our-products .col4{width: 90%;margin: 0 auto;float: none;}
+    .our-products .col4{width: 340px;margin: 0 auto;float: none;}
     section.contact-form textarea{width: 100%;}
     .building-information h4, .building-information p{padding-right: 0;}
+    .our-products footer{padding: 14px 0;}
+    .our-products h3{font-size: 18px;}
+    .our-products p{height: auto;min-height: 0;padding: 0 2%;}
 }
 @media screen and (max-width: 480px){
     section.contemporary-comfort{padding: 28px 0;}
     section.contemporary-comfort h3{font-size: 14px;}
     section.contemporary-comfort h2{font-size: 28px;}
+    .our-products .col4 {width: 280px;}
 }   
 
 
