@@ -105,3 +105,13 @@ footer#footer a{font-family: 'proxima_nova_rgbold', sans-serif;font-size: 16px;c
     section.contemporary-comfort h3{font-size: 22px;}
     section.contemporary-comfort h2{font-size: 30px;}
 }   
+
+
+/*
+|------------------------------------------------------------------------------------
+| Min-width
+|------------------------------------------------------------------------------------
+*/
+@media (min-width: 1200px){
+    .container {width: 83.3333%;}
+}
