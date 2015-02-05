@@ -28,6 +28,9 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 #header .navbar-nav>li>a:hover{background-color: transparent;}
 #header .navbar-nav>li:last-of-type{float: right;}
 
+#header .navbar-toggle{width: 48px;height: 48px;}
+#header .navbar-toggle:hover{background: url(../img/close.png) no-repeat center center;}
+#header .navbar-toggle:hover span{display: none;}
 
 /*slider*/
 section.slider .carousel{}
@@ -105,7 +108,7 @@ footer#footer a:hover{color: #000;}
 }
 @media screen and (max-width: 767px){
     .navbar-toggle span{background-color: #848687;}
-    .navbar-toggle .icon-bar{width: 33px;margin: 0 0 8px;}
+    .navbar-toggle .icon-bar{width: 34px;margin: 0 0 8px;}
     .navbar-toggle{margin-top: -34px;}
     .navbar{min-height: 40px;}
     #header #logo{border: none;padding: 40px 0 0;}
@@ -133,7 +136,7 @@ footer#footer a:hover{color: #000;}
     #header #logo a{width: 80%;display: block;}
     #header .navbar-nav>li a{font-size: 14px;}
     .navbar-toggle {margin-top: -30px; }
-    .navbar-toggle .icon-bar {width: 25px; margin: 0 0 7px; }
+    .navbar-toggle .icon-bar {width: 26px; margin: 0 0 7px; }
     section.contemporary-comfort{padding: 28px 0;}
     section.contemporary-comfort h3{font-size: 14px;}
     section.contemporary-comfort h2{font-size: 28px;}
