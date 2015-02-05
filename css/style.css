@@ -35,7 +35,7 @@ section.slider .control-carousel{opacity: .6; position: absolute; top: 50%; left
 section.slider .control-carousel.right{right: 1%;left: auto;}
 section.slider .control-carousel:hover{opacity: 1;color: #fff;border-color: #fff;background-color: rgba(0,0,0,0.6);}
 section.slider .carousel-indicators{}
-section.slider .carousel-indicators li, section.slider .carousel-indicators li.active{position: relative;margin: 0;width: 19px;height: 19px;background-color: rgba(0,0,0,0.7);opacity: .6;border: 2px solid rgba(255,255,255,0.8);border-radius: 100%}
+section.slider .carousel-indicators li, section.slider .carousel-indicators li.active{position: relative;margin: 0 1px;width: 19px;height: 19px;background-color: rgba(0,0,0,0.7);opacity: .6;border: 2px solid rgba(255,255,255,0.8);border-radius: 100%}
 section.slider .carousel-indicators li.active, section.slider .carousel-indicators li:hover{opacity: 1;}
 section.slider .carousel-indicators li.active:after{content: ""; position: absolute;width: 5px;height: 5px;background-color: #fff;border-radius: 100%;left: 5px;top: 5px;}
 
