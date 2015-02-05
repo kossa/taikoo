@@ -22,7 +22,7 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 #header #top a.connect{padding: 6px 20px;float: right;text-transform: uppercase;}
 #header #logo{padding: 40px 0;border-bottom: 1px solid #BEB6B3;}
 #header #top-bottom{display: none;}
-#header .navbar{margin-bottom: 0;margin-left: -40px;}
+#header .navbar{margin-bottom: 0;margin-left: -20px;}
 #header .navbar-nav{float: none;}
 #header .navbar-nav>li>a{font-size: 18px;text-transform: uppercase;}
 #header .navbar-nav>li>a:hover{background-color: transparent;}
@@ -156,6 +156,12 @@ footer#footer a:hover{color: #000;}
 | Min-width
 |------------------------------------------------------------------------------------
 */
-@media (min-width: 1200px){
-    .container {width: 83.3333%;}
+@media (min-width: 300px){/*500-800*/
+    .container {width: 100%;padding: 0 20px;}
+}
+@media (min-width: 500px){/*500-800*/
+    .container {width: 100%;padding: 0 40px;}
+}
+@media (min-width: 800px){/*800-1600*/
+    .container {width: 100%;padding: 0 50px;}
 }
