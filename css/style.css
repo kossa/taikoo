@@ -15,7 +15,7 @@ img{max-width: 100%}
 #header #top ul{margin: 0 0 0 -5px;}
 #header #top li{margin: 0;padding: 0;}
 #header #top a{display: inline-block;padding: 6px 10px;font-size: 12px;color: #646464;font-family: 'proxima_nova_cn_rgregular' ,sans-serif;}
-#header #top a.connect{padding: 6px 20px;float: right;}
+#header #top a.connect{padding: 6px 20px;float: right;text-transform: uppercase;}
 #header #top a:hover{background-color: #6F6F6F;color: #fff;}
 #header #logo{padding: 40px 0;border-bottom: 1px solid #BEB6B3;}
 #header .navbar{margin-bottom: 0;margin-left: -40px;}
