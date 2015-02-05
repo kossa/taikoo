@@ -103,10 +103,14 @@ footer#footer a:hover{color: #000;}
     .our-products p{height: 60px;}
 }
 @media screen and (max-width: 767px){
-    .navbar-toggle{background-color: #333;}
-    .navbar-toggle span{background-color: #fff;}
+    .navbar-toggle span{background-color: #848687;}
+    .navbar-toggle .icon-bar{width: 33px;margin: 0 0 8px;}
+    .navbar-toggle{margin-top: -34px;}
+    .navbar{min-height: 40px;}
+    #header #logo{border: none;padding: 40px 0 0;}
     #header .navbar{margin-left: 0;}
-    #header .navbar-nav>li:last-of-type{float: none;}
+    #header .navbar-nav>li{padding-bottom: 10px;display: inline-block;}
+    #header .navbar-nav>li:last-of-type{float: left;}
     .our-products .col4{width: 340px;margin: 0 auto;float: none;}
     section.contact-form textarea{width: 100%;}
     .building-information h4, .building-information p{padding-right: 0;}
