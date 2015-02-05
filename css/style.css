@@ -97,6 +97,7 @@ footer#footer a{font-family: 'proxima_nova_rgbold', sans-serif;font-size: 16px;c
 @media screen and (max-width: 991px){
     #header .navbar-nav>li>a{font-size: 15px;padding: 12px;}
     section.slider .item{height: 300px;}
+    .our-products p{height: 60px;}
 }
 @media screen and (max-width: 767px){
     .navbar-toggle{background-color: #333;}
