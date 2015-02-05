@@ -21,6 +21,7 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 #header #top a:hover:after{height: 100%;}
 #header #top a.connect{padding: 6px 20px;float: right;text-transform: uppercase;}
 #header #logo{padding: 40px 0;border-bottom: 1px solid #BEB6B3;}
+#header #top-bottom{display: none;}
 #header .navbar{margin-bottom: 0;margin-left: -40px;}
 #header .navbar-nav{float: none;}
 #header .navbar-nav>li>a{font-size: 18px;text-transform: uppercase;}
@@ -139,9 +140,17 @@ footer#footer a:hover{color: #000;}
     .our-products .col4 {width: 280px;}
     section.contact-form a#show-form{display: block;}
     section.contact-form form{display: none;}
+    #header #top{display: none;}
+    #header #top-bottom{display: block;margin-bottom: 10px;}
+    #header #top-bottom .in-left{float: left;}
+    #header #top-bottom a{margin-right: 10px;}
 }   
 
-
+@media screen and (max-width: 410px){
+    #header #top-bottom{display: block;margin-bottom: 10px;}
+    #header #top-bottom .in-left{float: none;}
+    #header #top-bottom a{margin-right: 10px;font-size: 12px;}
+}
 /*
 |------------------------------------------------------------------------------------
 | Min-width
