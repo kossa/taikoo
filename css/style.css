@@ -4,7 +4,8 @@
 body{font-family: 'proxima_nova_ltlight', sans-serif;}
 *:focus{outline: none!important}
 a, .btn{-webkit-transition: all 0.3s;-moz-transition: all 0.3s;-o-transition: all 0.3s;-ms-transition: all 0.3s;transition: all 0.3s;}
-a:hover,a:focus{text-decoration: none;}
+a{color: #808080;}
+a:hover,a:focus{text-decoration: none;color: #000;}
 img{max-width: 100%}
 
 h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
@@ -76,7 +77,7 @@ section.contemporary-comfort h3{font-size: 24px;}
 
 /*get-in-touch*/
 section.get-in-touch{text-align: center;padding: 85px 0;font-size: 16px;color: #808080;}
-section.get-in-touch h1{font-family: 'proxima_nova_ththin', sans-serif;font-size: 40px;}
+section.get-in-touch h1{font-family: 'proxima_nova_ththin', sans-serif;font-size: 48px;}
 section.get-in-touch h4{font-size: 16px;font-family: 'proxima_nova_rgbold', sans-serif;}
 
 
