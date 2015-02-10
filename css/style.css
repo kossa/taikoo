@@ -31,7 +31,7 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 #header .navbar-nav>li:last-of-type{float: right;}
 
 #header .navbar-toggle{width: 48px;height: 48px;}
-#header .navbar-toggle.open{background: url(../img/close.png) no-repeat center 10px;opacity: 0.5;}
+#header .navbar-toggle.open{background: url(../img/close.png) no-repeat 17px 10px;opacity: 0.5;}
 #header .navbar-toggle.open:hover{opacity: 1;}
 #header .navbar-toggle.open span{display: none;}
 #header .navbar-toggle:hover span{background-color: #000000;}
@@ -115,6 +115,8 @@ footer#footer a:hover{color: #000;}
     .navbar-toggle .icon-bar{width: 34px;margin: 0 0 8px;}
     .navbar-toggle{margin-top: -34px;}
     .navbar{min-height: 40px;}
+    .navbar-header{margin: 0!important;}
+    .container>.navbar-collapse{margin: 0;}
     #header #logo{border: none;padding: 40px 0 0;}
     #header .navbar{margin-left: 0;}
     #header .navbar-nav{height: 55px;border-top: 1px solid #E2E2E2;border-bottom: 1px solid #E2E2E2;padding: 5px 0;}
@@ -130,12 +132,15 @@ footer#footer a:hover{color: #000;}
     .our-products p{height: auto;min-height: 0;padding: 0 2%;}
     footer#footer ul{margin: 40px 0 30px;}
     footer#footer li{display: block;padding: 3px 0;}
+    section.contemporary-comfort h2 {font-size: 40px;}
 }
 @media screen and (max-width: 630px){
     #header #logo a{width: 80%;display: block;}
     #header .navbar-nav{height: auto;position: relative;padding: 0;margin-top: 0px;}
     #header .navbar-nav>li{float: none;width: 49%;border-right: 1px solid #E2E2E2;}
     #header .navbar-nav>li:last-of-type{position: absolute;top: 0;right: 0;border: none;padding: 0;}
+    #header .navbar>.container{padding: 0;}
+    #header .navbar-collapse ul{padding: 0 60px;}
 }   
 @media screen and (max-width: 480px){
     #header #top-bottom .container{padding: 0;}
@@ -147,6 +152,7 @@ footer#footer a:hover{color: #000;}
     #header .navbar-nav>li a{padding: 8px;}
     #header .navbar-nav>li:first-of-type a, #header .navbar-nav>li:last-of-type a{padding-top: 25px;}
     #header .navbar-nav>li:nth-of-type(5) a{padding-bottom: 25px;}
+    #header .navbar-collapse ul{padding: 0 40px;}
     .navbar-toggle .icon-bar {width: 26px; margin: 0 0 7px; }
     .navbar-toggle {margin-top: -30px; }
     .our-products .col4 {width: 280px;}
@@ -164,6 +170,7 @@ footer#footer a:hover{color: #000;}
     #header #top-bottom{display: block;margin-bottom: 10px;}
     #header #top-bottom .in-left{float: none;}
     #header #top-bottom a{margin-right: 10px;font-size: 12px;}
+    #header .navbar-collapse ul{padding: 0 20px;}
 }
 @media screen and (max-width: 320px){
     #header .navbar-nav>li a{font-size: 14px;}
