@@ -132,7 +132,7 @@ footer#footer a:hover{color: #000;}
     .our-products p{height: auto;min-height: 0;padding: 0 2%;}
     footer#footer ul{margin: 40px 0 30px;}
     footer#footer li{display: block;padding: 3px 0;}
-    section.contemporary-comfort h2 {font-size: 40px;}
+    section.contemporary-comfort h2, section.get-in-touch h1{font-size: 40px;}
 }
 @media screen and (max-width: 630px){
     #header #logo a{width: 80%;display: block;}
@@ -158,7 +158,7 @@ footer#footer a:hover{color: #000;}
     .our-products .col4 {width: 280px;}
     section.contact-form a#show-form{display: block;}
     section.contact-form form{display: none;}
-    section.contemporary-comfort h2{font-size: 28px;}
+    section.contemporary-comfort h2, section.get-in-touch h1{font-size: 28px;}
     section.contemporary-comfort h3{font-size: 14px;}
     section.contemporary-comfort{padding: 28px 0;}
 
