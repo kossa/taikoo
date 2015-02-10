@@ -120,7 +120,7 @@ footer#footer a:hover{color: #000;}
     #header .navbar-nav>li{float: left; }
     #header .navbar-nav>li:nth-of-type(5){float: none;}
     #header .navbar-nav>li:last-of-type {float: left; padding: 7px 0;}
-    #header .navbar-nav>li a{font-size: 18px;}
+    #header .navbar-nav>li a{font-size: 18px;padding: 12px 8px;}
     .our-products .col4{width: 340px;margin: 0 auto;float: none;}
     section.contact-form textarea{width: 100%;}
     .building-information h4, .building-information p{padding-right: 0;}
@@ -149,7 +149,9 @@ footer#footer a:hover{color: #000;}
     #header #top{display: none;}
     #header #top-bottom{display: block;margin-bottom: 10px;}
     #header #top-bottom .in-left{float: left;}
-    #header #top-bottom a{margin-right: 10px;}
+    #header #top-bottom .container{padding: 0;}
+    #header #top-bottom li a{margin-right: 0px;}
+    #header #top-bottom a{margin-right: 10px;font-size: 12px;}
 }   
 
 @media screen and (max-width: 410px){
