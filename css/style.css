@@ -30,8 +30,10 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 #header .navbar-nav>li:last-of-type{float: right;}
 
 #header .navbar-toggle{width: 48px;height: 48px;}
-#header .navbar-toggle:hover{background: url(../img/close.png) no-repeat center center;}
-#header .navbar-toggle:hover span{display: none;}
+#header .navbar-toggle.open{background: url(../img/close.png) no-repeat center 10px;opacity: 0.5;}
+#header .navbar-toggle.open:hover{opacity: 1;}
+#header .navbar-toggle.open span{display: none;}
+#header .navbar-toggle:hover span{background-color: #000000;}
 
 /*slider*/
 section.slider .carousel{}
