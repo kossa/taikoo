@@ -1,0 +1,6 @@
+.building-information .table li {min-height: 0;}
+.our-products .col4 .wrapper img{position: static;}
+.our-products .col4 .wrapper{filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale'); -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";}
+
+section.slider .wrapper{background-color: #000;background-repeat: no-repeat;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/slide-01.jpg', sizingMethod='scale'); -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/slide-01.jpg', sizingMethod='scale')";}
+section.slider .control-carousel{background-color: #000;}
