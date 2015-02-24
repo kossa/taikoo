@@ -39,7 +39,8 @@ h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 
 /*slider*/
 section.slider .carousel{}
-section.slider .item{height: 500px; overflow: hidden;}
+section.slider .carousel video{height: 100%;text-align: center;}
+section.slider .item{height: 500px; overflow: hidden;text-align: center;background-color: #000;}
 section.slider .item img{min-width: 100%; min-height: 100%; position: relative; top: 50%; max-width: initial; left: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 section.slider .wrapper{position: absolute;z-index: 99;width: 100%;height: 100%;text-align: center;background-position: center center;-webkit-background-size: cover; background-size: cover;}
 section.slider .wrapper .play{background-image: url(../img/play.png);width: 106px;height: 106px;position: absolute;top: 50%;margin-top: -53px;left: 50%;margin-left: -53px;opacity: 0.35;filter: alpha(opacity=35);}
@@ -109,23 +110,112 @@ footer#footer{padding: 60px 0 40px;}
 footer#footer a{float: right;font-family: 'proxima_nova_rgbold', sans-serif;font-size: 16px;color: #808080;}
 footer#footer a:hover{color: #000;}
 
+/*amenties*/
+section.amenties{background-color: #E2E2E2;}
+section.amenties .big-image{background-image: url(../img/img-07.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
+section.amenties .wrapper{padding: 70px 60px;}
+section.amenties .wrapper h4{line-height: 1.5;}
+section.amenties .wrapper h3{margin-bottom: 25px;}
+section.amenties .wrapper {line-height: 1.5;}
+section.amenties .wrapper p{margin-bottom: 30px;}
+section.amenties .wrapper p:last-of-type{margin: 0;}
+section.amenties img{width: 100%;}
+section.amenties .line{overflow: hidden;}
+section.amenties .line > div{width: 50%;}
+section.amenties .line-01 .second{
+    background-color: #0A6BAC; 
+    background-image: url(../img/building-foreground.png), url(../img/sky-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain, cover;}
+section.amenties .line-02 .first{background: #0A6BAC url(../img/img-05.jpg) center center;-webkit-background-size: cover; background-size: cover;}
+section.amenties .line-03 .second{background: #0A6BAC url(../img/img-06.jpg) center center;-webkit-background-size: cover; background-size: cover;}
+
+section.amenties .line{width: 100%; height: auto;}
+section.amenties .line .first, section.amenties .line .second{display: table-cell;float: none;}
+
+
+/*Location Page*/
+section.location{background-color: #E2E2E2;}
+section.location .big-image{background-image: url(../img/img-08.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
+section.location .big-image.second{background-image: url(../img/img-10.jpg);height: 700px;}
+section.location .wrapper{padding: 70px 60px;}
+section.location .wrapper h4{line-height: 1.5;}
+section.location .wrapper h3{margin-bottom: 25px;}
+section.location .wrapper {line-height: 1.5;}
+section.location .wrapper p{margin-bottom: 30px;}
+section.location .wrapper p:last-of-type{margin: 0;}
+section.location img{width: 100%;}
+section.location .line{width: 100%; height: auto;}
+section.location .line .first, section.location .line .second{display: table-cell;float: none;}
+section.location .line{overflow: hidden;}
+section.location .line > div{width: 50%;}
+section.location .line-01 .second{background: #0A6BAC url(../img/img-09.jpg) center center;-webkit-background-size: cover; background-size: cover;}
+
+
+/*office-buildings-symbols*/
+section.location .office-buildings-symbols{padding: 60px 90px;}
+section.location .office-buildings-symbols h3{margin-bottom: 30px;}
+section.location .office-buildings-symbols img{width: inherit;margin-right: 3px;}
+section.location .office-buildings-symbols li{line-height: 1;overflow: hidden;height: 40px;line-height: 3;border-bottom: 1px solid #333;}
+section.location .office-buildings-symbols li span{display: inline-block;margin-right: 10px;}
+section.location .office-buildings-symbols ul{width: 33.333%;float: left;border-top: 1px solid #333;}
+section.location .symbols ul{width: 100%;}
+
+/*residences*/
+section.residences{background-color: #E2E2E2;}
+section.residences .big-image{background-image: url(../img/img-11.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
+section.residences .wrapper{padding: 70px 60px;}
+section.residences .wrapper h4{line-height: 1.5;}
+section.residences .wrapper h3{margin-bottom: 25px;}
+section.residences .wrapper {line-height: 1.5;}
+section.residences .wrapper p{margin-bottom: 30px;}
+section.residences .wrapper p:last-of-type{margin: 0;}
+section.residences img{width: 100%;}
+section.residences .line{width: 100%; height: auto;}
+section.residences .line .first, section.residences .line .second{display: table-cell;float: none;}
+section.residences .line{overflow: hidden;}
+section.residences .line > div{width: 50%;}
+section.residences .line-01 .second{background: #0A6BAC url(../img/img-12.jpg) center center;-webkit-background-size: cover; background-size: cover;}
+section.residences .line-02 .first{background: #0A6BAC url(../img/img-13.jpg) center center;-webkit-background-size: cover; background-size: cover;}
+
+
+/*floor-plans*/
+#floor-plans{background: url(../img/img-14.jpg) no-repeat 90% 35%;}
+#floor-plans ul{margin-top: 200px;}
+#floor-plans ul a{border: 5px solid #ACACAC;padding: 10px 20px;margin-bottom: 8px;width: 270px;display: inline-block;background-color: #808080;color: #fff;font-size: 12px;}
+#floor-plans ul a:hover{background-color: #FFFFFF;color: #000;}
+#floor-plans ul a:after{content: "\f105"; font: normal normal normal 14px/1 FontAwesome;float: right;color: #f8f8f8;}
+#floor-plans ul a:hover:after{color: #000;}
+
+
+/*offers*/
+section#offers{display: none;position: relative;background-color: #fff;width: 100%;border-top: 1px solid #BEB6B3;padding-top: 100px;}
+section#offers h1{text-align: center;border-bottom: 1px solid #BEB6B3;font-family: 'proxima_nova_ththin', sans-serif;font-size: 48px;padding-bottom: 30px;margin-bottom: 30px;}
+section#offers .wrapper{line-height: 1.8;width: 80%;max-width: 580px; margin: auto;font-size: 18px;color: #333;}
+section#offers .wrapper p{margin-bottom: 20px;}
+section#offers #close-offers{background-color: #969696;text-align: center;width: 100%;color: #fff;font-size: 20px;display: block;padding: 20px;}
+section#offers #close-offers:hover{background-color: #333333;}
+
+
 
 @media screen and (max-width: 1200px){
     section.slider .item{height: 400px;}
     .our-products .col4 .wrapper{height: 290px;}
+    #floor-plans{background-position: 85% center;}
 }
 @media screen and (max-width: 991px){
     #header .navbar-nav>li>a{font-size: 15px;padding: 12px 9px;}
     section.slider .item{height: 300px;}
     .our-products p{height: 60px;}
     .our-products .col4 .wrapper{height: 230px;}
+    #floor-plans ul a{width: 200px;}
 }
 @media screen and (max-width: 767px){
     #header #logo{border: none;padding: 40px 0 0;}
     #header #top a.connect{margin-right: -40px;}
     #header .navbar-nav>li a{font-size: 18px;padding: 12px 7px;}
     #header .navbar-nav>li:last-of-type {float: left; padding: 7px 0;}
-    #header .navbar-nav>li:nth-of-type(5){float: none;}
     #header .navbar-nav>li{float: left;}
     #header .navbar-nav{height: 55px;border-top: 1px solid #E2E2E2;border-bottom: 1px solid #E2E2E2;padding: 5px 0;}
     #header .navbar{margin-left: 0;}
@@ -149,6 +239,13 @@ footer#footer a:hover{color: #000;}
     footer#footer ul{margin: 40px 0 30px;}
     section.contact-form textarea{width: 100%;}
     section.contemporary-comfort h2, section.get-in-touch h1{font-size: 40px;}
+    section.amenties .line .first, section.amenties .line .second{display: block;width: 100%;}
+    section.amenties .line-01 .second, section.amenties .line-02 .first, section.amenties .line-03 .second{height: 400px;}
+    section.location .line .first, section.location .line .second{display: block;width: 100%;}
+    section.location .line-01 .second, section.location .line-02 .first, section.location .line-03 .second{height: 400px;}
+    section.residences .line .first, section.residences .line .second{display: block;width: 100%;}
+    section.residences .line-01 .second, section.residences .line-02 .first, section.amenties .line-03 .second{height: 400px;}
+    section.location .symbols{overflow: hidden;margin-top: 40px;}
 }
 @media screen and (max-width: 700px){
     #header #logo a{width: 80%;display: block;}
@@ -157,7 +254,13 @@ footer#footer a:hover{color: #000;}
     #header .navbar-nav>li:last-of-type{position: absolute;top: 0;right: 0;border: none;padding: 0;}
     #header .navbar>.container{padding: 0;}
     #header .navbar-collapse ul{padding: 0 40px;margin-bottom: 0;}
+    section.amenties .line .first, section.amenties .line .second{}
+    section.location .line .first, section.location .line .second{}
+    .office-buildings-symbols{display: none;}
 }   
+@media screen and (max-width: 600px){
+    section.location .big-image, section.residences .big-image, section.amenties .big-image{height: 350px;}
+}
 @media screen and (max-width: 480px){
     #header #logo {padding: 20px 0 0;}
     #header #top-bottom .container{padding: 0;}
@@ -185,7 +288,13 @@ footer#footer a:hover{color: #000;}
     section.slider .carousel-indicators li.active:after{display: none;}
     section.slider .carousel-indicators li.active{background-color: #fff;}
     section.slider .control-carousel{display: none;}
-    
+    section.residences .wrapper{padding: 20px 30px;}
+    #floor-plans{background-image: none!important;}
+    #floor-plans ul{margin-top: 50px;}
+    #floor-plans ul a{width: 100%;}
+    section.location .big-image, section.residences .big-image, section.amenties .big-image{height: 250px;}
+    section#offers h1{font-size: 28px;}
+    section#offers .wrapper p{font-size: 14px;}
 }   
 
 @media screen and (max-width: 410px){
@@ -194,6 +303,13 @@ footer#footer a:hover{color: #000;}
     #header #top-bottom a{margin-right: 10px;font-size: 12px;}
     #header .navbar-collapse ul{padding: 0 20px;}
     #header a.connect{margin-left: 15px;}
+    section.amenties .line-01 .second, section.amenties .line-02 .first, section.amenties .line-03 .second{height: 250px;}
+    section.amenties .wrapper{padding: 35px;}
+    section.location .line-01 .second, section.location .line-02 .first, section.location .line-03 .second{height: 250px;}
+    section.location .wrapper{padding: 35px;}
+    section.location .big-image.second{height: 500px;}
+    section.location .office-buildings-symbols{display: none;}
+
 }
 @media screen and (max-width: 320px){
     #header .navbar-nav>li a{font-size: 14px;}

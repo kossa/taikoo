@@ -11,7 +11,6 @@
           $(this).carousel( _dir );  
         },
         //Default is 75px, set to 0 for demo so any distance triggers swipe
-         threshold:0
       });
 
 
@@ -23,43 +22,21 @@
             var
                 _this    = $(this),
                 _wrapper = _this.parent(),
-                iframe   = _wrapper.next('iframe')[0],
-                player   = $f(iframe),
-                status   = $('.status');
+                _video   = _wrapper.next();
+
 
             // Hide the Wrapper
             _wrapper.fadeOut("slow", function(){
                 _wrapper.remove();
             })
 
-            // When the player is ready, add listeners for pause, finish, and playProgress
-            player.addEvent('ready', function() {
-                status.text('ready');
-                
-                player.addEvent('pause', onPause);
-                player.addEvent('finish', onFinish);
-                player.addEvent('playProgress', onPlayProgress);
-            });
-
-            player.api('play');
+            // Play the fideo
+            _video.get(0).play();
 
             $('#carousel-kossa').on('slide.bs.carousel', function(){
-                player.api('pause');
+                _video.get(0).pause();
+
             })
-
-
-            function onPause(id) {
-                status.text('paused');
-            }
-
-            function onFinish(id) {
-                status.text('finished');
-            }
-
-            function onPlayProgress(data, id) {
-                status.text(data.seconds + 's played');
-            }
-
 
         }
     );
@@ -85,10 +62,58 @@
         }
     );
 
-/*
-|------------------------------------------------------------------------------------
-| Fonctions
-|------------------------------------------------------------------------------------
-*/
+    // Click on video
+    $("video").click(
+        function(){
+            if (this.paused) {
+                this.play();
+            }else{
+                this.pause();
+            }
+        }
+    );
+
+    $("#floor-plans a").hover(function(){//  executer lors du sorvol
+            var img = $(this).data('img');
+            $('#floor-plans').css('background-image', 'url(img/'+img+')')
+        }, 
+        function(){//  executer lors du sortie
+            $('#floor-plans').css('background-image', 'url(img/img-14.jpg)')
+        });
+
+
+    $("#contact").click(
+        function(){
+          var
+            _this = $(this),
+            target = _this.attr('href').split("#")[1],
+            target_top = $('#'+target);
+            console.log(target);
+        
+          //$('html, body').animate({scrollTop:target_top}, "slow");
+          $("html, body").animate({scrollTop: target_top.offset().top }, 
+            {duration:1000});
+
+          //$('html, body').scrollTo( target_top, 800, { easing:'easeOutCirc' } );
+
+
+        return false;
+        })
+
+    // Open/Close Offers
+    $("#open-offsers").click(
+        function(){
+            $("#offers").slideDown();
+            return false;
+        }
+    );
+    $("#close-offers").click(
+        function(){
+            $("#offers").slideUp();
+            return false;
+        }
+    );
+
+
 
 })(jQuery);

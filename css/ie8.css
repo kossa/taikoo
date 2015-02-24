@@ -4,3 +4,24 @@
 
 section.slider .wrapper{background-color: #000;background-repeat: no-repeat;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/slide-01.jpg', sizingMethod='scale'); -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/slide-01.jpg', sizingMethod='scale')";}
 section.slider .control-carousel{background-color: #000;}
+
+#header .navbar-nav>li.last{float: right;}
+#header .navbar-nav>li.last{float: right;}
+
+section .big-image{background-repeat: no-repeat;background-size: 100% auto;filter:progid:DXImageTransferform.microsoft.AlphaImageLoader(sizingMethod='scale')}
+section.contact-form .form-control{height: auto;padding: 20px 10px;}
+section.contact-form textarea{height: 234px!important;}
+input, textarea { color: #000; }
+.placeholder { color: #aaa; }
+
+
+@media screen and (max-width: 767px){
+    #header .navbar-nav>li.last {float: left;}
+}
+
+@media screen and (max-width: 700px){
+    #header .navbar-nav>li.last{position: absolute;top: 0;right: 0;border: none;padding: 0;}
+}   
+@media screen and (max-width: 480px){
+    #header .navbar-nav>li.last a{padding-top: 25px;}
+}
