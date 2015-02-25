@@ -2,8 +2,8 @@
 
     <section class="contemporary-comfort">
       <div class="container">
-        <h3>HOME OF</h3>
-        <h2>INTIMATE RESIDENCES</h2>
+        <h3>HOME OF EXCEPTIONAL</h3>
+        <h2>DESIGN AND SERVICE</h2>
       </div>
     </section><!-- contemporary-comfort -->
 
