@@ -127,10 +127,22 @@ section.amenties .line{overflow: hidden;}
 section.amenties .line > div{width: 50%;}
 section.amenties .line-01 .second{
     background-color: #0A6BAC; 
-    background-image: url(../img/building-foreground.png), url(../img/sky-background.jpg);
+    background-image:  url(../img/sky-background.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain, cover;}
+    position: relative;
+    background-size: cover;
+}
+section.amenties .line-01 .second .foreground{
+    position: absolute;
+    z-index: 99999;
+    width: 100%;height: 100%;
+    background-image: url(../img/building-foreground.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
 section.amenties .line-02 .first{background: #0A6BAC url(../img/img-05.jpg) center center;-webkit-background-size: cover; background-size: cover;}
 section.amenties .line-03 .second{background: #0A6BAC url(../img/img-06.jpg) center center;-webkit-background-size: cover; background-size: cover;}
 

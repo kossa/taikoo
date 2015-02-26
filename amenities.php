@@ -20,6 +20,7 @@
             </div>
           </div>
           <div class="second">
+            <div class="foreground"></div>
           </div>
         </div>
 
