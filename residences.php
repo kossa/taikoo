@@ -32,8 +32,8 @@
               <h3>Floor Plans</h3>
               <ul class="list-unstyled">
                 <li><a data-img="img-15.jpg" target="_blank" href="pdfs/30F.pdf">30F</a></li>
-                <li><a data-img="img-16.jpg" target="_blank" href="pdfs/25–29F.pdf">23F | 25–29F</a></li>
-                <li><a data-img="img-17.jpg" target="_blank" href="pdfs/15–22F.pdf">5–13F | 15–22F</a></li>
+                <li><a data-img="img-16.jpg" target="_blank" href="pdfs/29F.pdf">23F | 25–29F</a></li>
+                <li><a data-img="img-17.jpg" target="_blank" href="pdfs/22F.pdf">5–13F | 15–22F</a></li>
               </ul>
               <p style="opacity:0; height: 0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse laudantium placeat, rem, exercitationem officiis ducimus? Debitis deleniti ad maxime, commodi magnam similique fuga voluptatibus sint, odit beatae iusto officiis voluptates.</p>
 
