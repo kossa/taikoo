@@ -10,6 +10,9 @@ img{max-width: 100%}
 .mb40{margin-bottom: 40px;}
 h1, h2, h3{text-transform: uppercase;letter-spacing: 0.15em;}
 
+p.hidden-p{height: 0;overflow: hidden;}
+
+
 /*Header*/
 #header{margin-bottom: -1px;}
 #header a{color: #848687;letter-spacing: 0.1em;}
