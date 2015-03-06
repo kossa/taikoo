@@ -24,12 +24,14 @@ section.contact-form p{text-align: center;}
 }
 @media screen and (max-width: 700px){
     #header #logo {margin-bottom: 0;}
-
+    #header .navbar-nav>li:last-of-type{position: static;}
+    #header .navbar-nav {padding: 5px 30px; }
+}
+@media screen and (max-width: 500px){
+    #header .navbar-collapse ul {padding: 0 10px;}
 }
 @media screen and (max-width: 480px){
-    #header .navbar-nav>li {
-  float: none;
-  width: 49%;
-  border-right: 1px solid #E2E2E2;
-}
+    #header .navbar-nav>li {float: none; width: 49%; border-right: 1px solid #E2E2E2; }
+    #header .navbar-nav>li:last-of-type{position: absolute;}
+    #header .navbar-toggle {display: block; margin-top: -80px;}
 }
