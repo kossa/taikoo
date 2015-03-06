@@ -73,15 +73,18 @@
         }
     );
 
+    // Residences page hover on links
     $("#floor-plans a").hover(function(){//  executer lors du sorvol
-            var img = $(this).data('img');
-            $('#floor-plans').css('background-image', 'url(img/'+img+')')
-        }, 
-        function(){//  executer lors du sortie
-            $('#floor-plans').css('background-image', 'url(img/img-14.jpg)')
-        });
+        var img = $(this).data('img');
+        $('#floor-plans').css('background-image', 'url('+img+')')
+    }, 
+    function(){//  executer lors du sortie
+        var img = $(this).data('imgorigin');
+        $('#floor-plans').css('background-image', 'url('+img+')')
+    });
 
 
+    // Scoll to contact form
     $("#contact").click(
         function(){
           var
@@ -114,6 +117,36 @@
         }
     );
 
+
+    // Carousel
+    $('.your-class').slick({
+        "dots": true,
+    });
+
+    // Contact form submit
+    $("#contact-form").submit(function (){
+        var data = $(this).serialize();
+
+        $.ajax({
+            url: 'mail.php',
+            type: 'POST',
+            dataType: 'json',
+            data: data,
+        })
+        .done(function(data) {
+            type = data.type;
+            $('#email-'+type+'-model').modal();
+        })
+        .fail(function(data) {
+            console.log(data);
+        })
+        .always(function() {
+            console.log("complete");
+        });
+
+
+        return false;
+    });
 
 
 })(jQuery);

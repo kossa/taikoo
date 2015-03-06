@@ -1,17 +1,17 @@
 <section class="get-in-touch" id="getintouch">
       <div class="container">
-        <h1>Get in touch</h1>
+        <h1>取得聯繫</h1>
         <div class="row">
           <div class="col-sm-4">
-            <h4>Phone</h4>
+            <h4>電話</h4>
             <p>(852) 2844 8361</p>
           </div>
           <div class="col-sm-4">
-            <h4>Address</h4>
-            <p>23 Tong Chong Street, Taikoo Place Hong Kong</p>
+            <h4>地址</h4>
+            <p>香港港島東太古坊糖廠街23號</p>
           </div>
           <div class="col-sm-4">
-            <h4>Email</h4>
+            <h4>電子郵件</h4>
             <p><a href="mailto:tpapartments@swireproperties.com">tpapartments@swireproperties.com</a></p>
           </div>
         </div>
@@ -25,26 +25,26 @@
           <div class="row">
             <div class="col-sm-6">
               <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="Your Name">
+                <input type="text" class="form-control" name="name" placeholder="你的名字">
               </div>
               <div class="form-group">
-                <input type="Email" class="form-control" name="email" placeholder="Email">
+                <input type="Email" class="form-control" name="email" placeholder="電子郵件">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="phone" placeholder="Phone">
+                <input type="text" class="form-control" name="phone" placeholder="電話">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="country" placeholder="City, Country">
+                <input type="text" class="form-control" name="country" placeholder="城市，國家">
               </div>
             </div>
             <div class="col-sm-6">
               <div class="form-group">
-                <textarea class="form-control" name="message" placeholder="Enter your Message"></textarea>
+                <textarea class="form-control" name="message" placeholder="輸入您的留言"></textarea>
               </div>
-              <button type="submit" class="btn btn-default btn-lg">Send</button>
+              <button type="submit" class="btn btn-default btn-lg">輸入您的留言</button>
             </div>
           </div>
-          <p>By clicking "SUBMIT", I agree that my personal data can be used and provided for direct marketing purpose in accordance with the privacy policy of Swire Properties Limited.</p>
+          <p>通過點擊「提交」,本人同意根據太古地產的私隱條例 ,本人的個人資料可使用並提供為直接促銷的目的。</p>
         </form>
       </div>
     </section>
@@ -53,17 +53,17 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4 col-sm-push-8">
-            <a target="_blank" href="http://www.swireproperties.com/en/Pages/index.aspx"><img src="img/logo-02.png" alt=""></a>
+            <a target="_blank" href="http://www.swireproperties.com/tc/Pages/index.aspx"><img src="../img/logo-02.png" alt=""></a>
           </div>
           <div class="col-sm-8 col-sm-pull-4">
             <div class="menu-footer">
               <ul class="list-inline">
-                <li><a href="#" data-toggle="modal" data-target="#disclaimer-model">Disclaimer</a></li>
-                <li><a href="#" data-toggle="modal" data-target="#privacy-model">Privacy Statement</a></li>
-                <li><a href="#" data-toggle="modal" data-target="#copyright-model">Copyright</a></li>
+                <li><a href="#" data-toggle="modal" data-target="#disclaimer-model">免責條款</a></li>
+                <li><a href="#" data-toggle="modal" data-target="#privacy-model">私隱條例</a></li>
+                <li><a href="#" data-toggle="modal" data-target="#copyright-model">版權</a></li>
               </ul>
             </div>
-            <p class="copyright"><small>© 2014 Swire Properties Ltd. All rights reserved</small></p>
+            <p class="copyright"><small>© 2014太古地產 版權所有</small></p>
           </div>
         </div>
       </div>
@@ -200,52 +200,20 @@
       </div>
     <!-- /end Copyright-->
 
-    <!-- Models Success email -->
-      <div class="modal fade" id="email-success-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">Thank you for your message</h4>
-            </div>
-            <div class="modal-body">
-              <p>A representative will reach out to you shortly to discuss your inquiry. If you need immediat service please call us at (852) 2844 8361.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    <!-- /end Success email -->
-
-    <!-- Models error email -->
-      <div class="modal fade" id="email-error-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">Error</h4>
-            </div>
-            <div class="modal-body">
-              <p>Your message not sent. If you need immediat service please call us at (852) 2844 8361.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    <!-- /end error email -->
-
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.touchSwipe.min.js"></script>
-    <script src="js/slick.min.js"></script>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jquery.touchSwipe.min.js"></script>
+    <script src="../js/slick.min.js"></script>
 
     <!--[if lte IE 9]>       
-      <script src="js/ie-bootstrap-carousel.min.js"></script>
-      <script src="js/jquery.placeholder.min.js"></script>
+      <script src="../js/ie-bootstrap-carousel.min.js"></script>
+      <script src="../js/jquery.placeholder.min.js"></script>
       <script>
         (function($){
           $('input, textarea').placeholder();
@@ -253,6 +221,6 @@
       </script>
     <![endif]-->
     
-    <script src="js/main.js"></script>
+    <script src="../js/main.js"></script>
   </body>
 </html>

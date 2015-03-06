@@ -11,26 +11,27 @@
     <title>Taikoo Place Apartments</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Fonts CSS -->
-    <link href="css/fonts.css" rel="stylesheet">
+    <link href="../css/fonts.css" rel="stylesheet">
 
     <!-- Fonts Awesome CSS -->
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="../css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Slick Slider -->
-    <link href="css/slick.css" rel="stylesheet">
+    <link href="../css/slick.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+    <link href="../css/style-ch.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <link href="css/ie8.css" rel="stylesheet">
+      <link href="../css/ie8.css" rel="stylesheet">
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
@@ -43,16 +44,16 @@
         <div class="container">
           <div class="pull-left">
             <ul class="list-inline">
-              <li><a target="_blank" href="http://www.pacificplaceapartments.com.hk/en/">繁</a></li>
+              <li><a target="_blank" href="http://www.pacificplaceapartments.com.hk/en/">ENG</a></li>
               <li><a target="_blank" href="http://www.pacificplaceapartments.com.hk/en/">簡</a></li>
             </ul>
           </div>
-          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/en" class="connect">Connect with Pacific Place apartments</a>
+          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/en" class="connect">連接與太古廣場公寓</a>
         </div>
       </div>
       <div id="logo">
         <div class="container">
-          <a href="index.php"><img src="img/logo.png" alt=""></a>
+          <a href="index.php"><img src="../img/logo-ch.png" alt=""></a>
         </div>
       </div>
       <div class="navbar" role="navigation">
@@ -67,22 +68,22 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="location.php">Location</a></li>
-              <li><a href="residences.php">Residences</a></li>
-              <li><a href="amenities.php">Amenities</a></li>
-              <li><a href="#" id="open-offsers">offers</a></li>
-              <li><a href="#getintouch" id="contact">Contact</a></li>
-              <li class="last"><a target="_blank" href="pdfs/brochure.pdf">The Brochure</a></li>
+              <li><a href="location.php">地點</a></li>
+              <li><a href="residences.php">住宅</a></li>
+              <li><a href="amenities.php">設施</a></li>
+              <li><a href="#" id="open-offsers">報價</a></li>
+              <li><a href="#getintouch" id="contact">聯繫</a></li>
+              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">宣傳冊</a></li>
             </ul>
             <div id="top-bottom">
             <div class="container">
               <div class="in-left">
                 <ul class="list-inline">
-                  <li><a href="http://www.pacificplaceapartments.com.hk/en/">繁</a></li>
+                  <li><a href="http://www.pacificplaceapartments.com.hk/en/">ENG</a></li>
                   <li><a href="http://www.pacificplaceapartments.com.hk/en/">簡</a></li>
                 </ul>
               </div>
-              <a href="http://www.pacificplaceapartments.com.hk/en" class="connect">Connect with Pacific Place apartments</a>
+              <a href="http://www.pacificplaceapartments.com.hk/en" class="connect">連接與太古廣場公寓</a>
             </div>
           </div><!-- top-bottom -->
           
@@ -94,11 +95,11 @@
 
 
     <section id="offers">
-      <h1>our LATEST OFFER</h1>
+      <h1>我們的最新報價</h1>
       <div class="wrapper">
-        <p>Preferential rentals of up to 25% discounts at selective one-bedroom suites available for lease. The Landlord reserves the right to decide on the promotion period and all other terms and conditions relating to the lettings. For more details or viewing arrangement</p>
-        <p><strong>Phone</strong> <br>(852) 2844 8361 </p>
-        <p><strong>Email</strong> <br>tpapartments@swireproperties.com.</p>
+        <p>高達25％的折扣，在選擇一間臥室的套房，可供租賃的租金優惠。業主有權決定推廣期以及有關租約所有其他條款及條件的權利。欲知更多詳情或安排觀看</p>
+        <p><strong>電話</strong> <br>(852) 2844 8361 </p>
+        <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com.</p>
       </div>
       <a href="#" id="close-offers">x</a>
     </section><!-- offers -->

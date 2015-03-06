@@ -1,49 +1,28 @@
 <?php include_once 'header.php'; ?>
 
     <section class="slider">
-      <div id="carousel-kossa" class="carousel slide" data-ride="carousel">
-        
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner" role="listbox">
-          <div class="item active">
-            <div class="wrapper" style="background-image: url(img/slide-01.jpg);">
-              <a href="#" class="play"></a>
-            </div>
-            <video autobuffer autoloop loop controls>
-              <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
-            </video>
+      <div class="your-class">
+        <div class="item">
+          <div class="wrapper" style="background-image: url(img/slide-01.jpg);">
+            <a href="#" class="play"></a>
           </div>
-          <div class="item">
-            <div class="wrapper" style="background-image: url(img/slide-01.jpg);">
-              <a href="#" class="play"></a>
-            </div>
-            <video autobuffer autoloop loop controls>
-              <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
-            </video>
-          </div>
-          <div class="item">
-            <div class="wrapper" style="background-image: url(img/slide-01.jpg);">
-            </div>
-          </div>
+          <video autobuffer autoloop loop controls>
+            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
+          </video>
         </div>
-
-        <!-- Controls -->
-        <a class="left control-carousel" href="#carousel-kossa" role="button" data-slide="prev">
-          <i class="fa fa-angle-left"></i>
-        </a>
-        <a class="right control-carousel" href="#carousel-kossa" role="button" data-slide="next">
-          <i class="fa fa-angle-right"></i>
-        </a>
-
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#carousel-kossa" data-slide-to="0" class="active"></li>
-          <li data-target="#carousel-kossa" data-slide-to="1"></li>
-          <li data-target="#carousel-kossa" data-slide-to="2"></li>
-        </ol>
-
+        <div class="item">
+          <div class="wrapper" style="background-image: url(img/slide-01.jpg);">
+            <a href="#" class="play"></a>
+          </div>
+          <video autobuffer autoloop loop controls>
+            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
+          </video>
+        </div>
+        <div class="item">
+          <div class="wrapper" style="background-image: url(img/slide-01.jpg);"> </div>
+        </div>
       </div>
-    </section><!-- slider -->
+    </section>
 
     <section class="contemporary-comfort">
       <div class="container">

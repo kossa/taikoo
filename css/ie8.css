@@ -15,6 +15,7 @@ input, textarea { color: #000; }
 .placeholder { color: #aaa; }
 section.building-information{margin-bottom: -4px;}
 
+
 @media screen and (max-width: 767px){
     #header .navbar-nav>li.last {float: left;}
 }

@@ -1,0 +1,35 @@
+
+body{font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;}
+section.contemporary-comfort h2{font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;}
+section.get-in-touch h1{font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;}
+section#offers h1{font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;}
+
+section.contact-form p{text-align: center;}
+
+
+
+@media screen and (max-width: 1200px){
+    
+}
+@media screen and (max-width: 991px){
+    
+}
+@media screen and (max-width: 767px){
+    #header .navbar-nav{margin-bottom: 0;}
+    #header .navbar-toggle{display: none;}
+    #header .navbar-nav>li:last-of-type{float: right;padding: 0;}
+    .collapse{display: block;visibility: visible;}
+    #header .navbar-nav>li{float: left;width: inherit;border: none;}
+    #header #logo {border: none; padding: 30px 0; margin-bottom: -10px;}
+}
+@media screen and (max-width: 700px){
+    #header #logo {margin-bottom: 0;}
+
+}
+@media screen and (max-width: 480px){
+    #header .navbar-nav>li {
+  float: none;
+  width: 49%;
+  border-right: 1px solid #E2E2E2;
+}
+}
