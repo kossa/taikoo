@@ -38,9 +38,9 @@
           <div class="col-sm-5 mb40">
             <h4>Taikoo Place Apartments brings cosmopolitan living to the heart of Taikoo Place, with intelligently designed residences tailored for professionals with discerning tastes.</h4> 
 
-            <p>Our contemporary and hospitable homes include spacious studios, elegant one and two-bedroom apartments, and luxurious penthouses — each carefully crafted to maximise space, efficiency and natural light. Managed alongside Pacific Place Apartments, Taikoo Place Apartments offers exceptional standards of service and amenities. Our residentsindulge in a premium lifestyle experience, including an exclusive clubhouse complete with two spas and a gym, in addition to a deluxe three-floor restaurant managed by the acclaimed Swire Hotels.</p>
+            <p>Our contemporary homes include studios, one and two-bedroom apartments, and elegant penthouses — each carefully crafted to maximise space, efficiency and natural light. Managed alongside Pacific Place Apartments, Taikoo Place Apartments offers exceptional standards of service and amenities. Our residents indulge in a premium lifestyle experience, including an exclusive clubhouse complete with two spas and a gym, in addition to a deluxe three-floor restaurant managed by the acclaimed Swire Hotels.</p>
 
-            <p> Located in the heart of Taikoo Place, a dynamic business and leisure hub of Hong Kong, Taikoo Place Apartments is set to become your new definition of sophisticated living.</p>
+            <p>Located in the heart of Taikoo Place, a dynamic business and leisure hub of Hong Kong, Taikoo Place Apartments is set to become your new definition of sophisticated living.</p>
 
           </div>
           <div class="col-sm-5 col-sm-offset-1">
