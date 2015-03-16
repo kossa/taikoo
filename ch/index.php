@@ -3,23 +3,24 @@
     <section class="slider">
       <div class="your-class">
         <div class="item">
-          <div class="wrapper" style="background-image: url(../img/slide-01.jpg);">
-            <a href="#" class="play"></a>
-          </div>
-          <video autobuffer autoloop loop controls>
-            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
-          </video>
-        </div>
-        <div class="item">
-          <div class="wrapper" style="background-image: url(../img/slide-01.jpg);">
-            <a href="#" class="play"></a>
-          </div>
-          <video autobuffer autoloop loop controls>
-            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
-          </video>
-        </div>
-        <div class="item">
           <div class="wrapper" style="background-image: url(../img/slide-01.jpg);"> </div>
+        </div>
+        <div class="item">
+          <div class="wrapper" style="background-image: url(../img/slide-02.jpg);"> </div>
+        </div>
+        <div class="item">
+          <div class="wrapper" style="background-image: url(../img/slide-03.jpg);"> </div>
+        </div>
+        <div class="item">
+          <div class="wrapper" style="background-image: url(../img/slide-04.jpg);"> </div>
+        </div>
+        <div class="item">
+          <div class="wrapper" style="background-image: url(../img/slide-05.jpg);">
+            <a href="#" class="play"></a>
+          </div>
+          <video autobuffer autoloop loop controls>
+            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
+          </video>
         </div>
       </div>
     </section>
