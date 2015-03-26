@@ -45,10 +45,10 @@
           <div class="pull-left">
             <ul class="list-inline">
               <li><a href="../">ENG</a></li>
-              <li><a href="../ch-simp/">簡</a></li>
+              <li><a href="../ch">繁</a></li>
             </ul>
           </div>
-          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接與太古廣場公寓</a>
+          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接与太古广场公寓</a>
         </div>
       </div>
       <div id="logo">
@@ -68,22 +68,22 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="location.php">地點</a></li>
+              <li><a href="location.php">地点</a></li>
               <li><a href="residences.php">住宅</a></li>
-              <li><a href="amenities.php">設施</a></li>
-              <li><a href="#" id="open-offsers">報價</a></li>
-              <li><a href="#getintouch" id="contact">聯繫</a></li>
-              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">宣傳冊</a></li>
+              <li><a href="amenities.php">设施</a></li>
+              <li><a href="#" id="open-offsers">报价</a></li>
+              <li><a href="#getintouch" id="contact">联系</a></li>
+              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">该宣传册</a></li>
             </ul>
             <div id="top-bottom">
             <div class="container">
               <div class="in-left">
                 <ul class="list-inline">
                   <li><a href="../">ENG</a></li>
-                  <li><a href="../ch-simp/">簡</a></li>
+                  <li><a href="../ch">繁</a></li>
                 </ul>
               </div>
-              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接與太古廣場公寓</a>
+              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接与太古广场公寓</a>
             </div>
           </div><!-- top-bottom -->
           

@@ -34,4 +34,6 @@ section.contact-form p{text-align: center;}
     #header .navbar-nav>li {float: none; width: 49%; border-right: 1px solid #E2E2E2; }
     #header .navbar-nav>li:last-of-type{position: absolute;}
     #header .navbar-toggle {display: block; margin-top: -80px;}
+    #header #top-bottom .in-left{float: left}
 }
+

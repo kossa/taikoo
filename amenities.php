@@ -47,8 +47,7 @@
             <div class="wrapper">
               <h3>THE SPA</h3>
               <p>Unwind from the stimulating atmosphere of Taikoo Place within our restorative spas. Our intimate spa invites singles and couples to rejuvenate in private, or share our larger spa with friends, which is furnished with heated chaises and a tranquil lounge. The spas' superb interiors also incorporate deluxe rain showers, Jacuzzi and steam rooms.</p>
-              <h3>THE Gym</h3>
-              <p>The gym at Taikoo Place Apartments invites residents to break from Hong Kong's high-speed pace within a comfortable and contemporary setting. Located within the clubhouse, the gym offers fitness equipment available day and night.</p>
+              <p><small>Artist impression of spa in clubhouse</small></p>
             </div>
           </div>
           <div class="second">

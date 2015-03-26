@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-sm-4">
             <h4>電話</h4>
-            <p>(852) 2844 8361</p>
+            <p>(852) 2844 8323</p>
           </div>
           <div class="col-sm-4">
             <h4>地址</h4>
@@ -75,25 +75,13 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">DISCLAIMER</h4>
+              <h4 class="modal-title" id="myModalLabel">免責條款</h4>
             </div>
             <div class="modal-body">
-                <p>The material contained in this website has been produced by Swire Properties Limited in accordance with its current
-                practices and policies and with the benefit of information currently available to it, and all reasonable efforts
-                have been made to ensure the accuracy of the contents of the pages of the website at the time of preparation. 
-                Swire Properties Limited may regularly review the website and where appropriate will update pages to reflect changed circumstances.</p>
-                <p>Notwithstanding all efforts made by Swire Properties Limited to ensure the accuracy of the website, no responsibility or liability
-                is accepted by Swire Properties Limited in respect of any use or reference to the website in connection with any matter or action
-                taken following such use or reference or for any inaccuracies, omissions, mis-statements or errors in the said material, or for any
-                economic or other loss which may be directly or indirectly sustained by any visitor to the website or other person who obtains access
-                to the material on the website.</p>
-                <p>The material on this website is intended for general information only and nothing in this website contains professional advice or an 
-                offer for sale or any binding commitment upon Swire Properties Limited in relation to the availability of property or the description of 
-                property. All visitors should take independent advice from a suitably qualified professional in relation to any specific query or problem
-                that they may have or in relation to any property included in this website, and Swire Properties Limited takes no responsibility for any 
-                loss caused as a result of reading the contents of this website.</p>
-                <p>No claims, actions or legal proceedings in connection with this website brought by any visitor or other person having reference to the
-                material on this website will be entertained by Swire Properties Limited.</p>
+              <p>本網站所載之資料內容由太古地產有限公司依據其現行慣例及政策，並利用其現時所得的資料編製。太古地產有限公司在編製時已盡一切合理的努力確保網站各頁內容準確。 太古地產有限公司定期檢查網站，並於適當時更新各頁的資料以反映情況的轉變。</p>
+              <p>雖然太古地產有限公司已盡力確保網站所載之資料內容準確，太古地產有限公司不接受由於使用或參考網站後發 生的任何事宜或採取的任何行動引起的任何責任或法 律責任，亦不會為上述資料內容的任何誤差、遺漏、誤述或錯誤、或為任何網站的訪客或其他可使用網站資料的人士，可能直接或間接蒙受的任何經濟或其他損 失負上責任或法律責任。</p>
+              <p>本網站的資料僅供一般資訊用途，不存在任何專業意見或邀約出售，或太古地產有限公司對物業的可得性或物業 的描述的任何約束性承諾，而各訪客如有任何疑問或對有關本網站內任何物業的事宜有任何問題，應徵詢合適資格專業人士的意見 ，太古地產有限公司不承擔任何由 於閱讀本網站內容而導致的損失。</p>
+              <p>太古地產有限公司不會受理任何訪客或其他人士在參考本網站資料後提出與本網站有關的任何申索、訴訟或法律程序。</p>
             </div>
           </div>
         </div>
@@ -107,72 +95,83 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">PRIVACY STATEMENT</h4>
+              <h4 class="modal-title" id="myModalLabel">隱私條例</h4>
             </div>
             <div class="modal-body">
-              <p><strong>SWIRE PROPERTIES LIMITED ("SPL")</strong><br>
-              <br><strong>Data Privacy and Security Policy </strong>
-              <br><br><strong>A. Commitment to Personal Data Protection </strong>
-              <br>We are committed to protecting your personal data privacy. To ensure that you can make informed decisions and feel confident about providing to us personally identifiable information ("Data") relating to you, when using our website, we outline in this notice our practices and the choices you have concerning the collection and use of your Data. 
-              <br><br><strong>B. The Data We Collect </strong>
-              <br>The types of Data we collect from you will depend on the specific type of services and products as requested by or provided to you for the purposes mentioned below, and may include: 
-              <br>1. Your personal information, including your name, gender, date of birth, nationality, family status, passport or other identification number, the particulars of your registered status with any of our subsidiaries, associated companies, and/or business associates;
-              <br>2. Your contact information, including but not limited to telephone numbers, mailing addresses, email addresses, and fax numbers;
-              <br>3. Your business information, such as, company name and business title.
-              <br>4. Your credit or other charge cards information, including name of cardholder, card number, billing address and expiry date;
-              <br>We may also collect non-personally identifiable information about you, such as, your use of our websites, personal preferences and comments, and responses to promotional offers and surveys. 
-              <br>By providing the Data to us, you acknowledge that such provision is fair and reasonable in the circumstances and we stress that it is not obligatory for you to provide the Data to us. However, if you elect not to provide the Data to us, we may not be able to supply you with the relevant information, services or products. 
-              <br><br><strong>C. Purposes for which the Data are Collected and Used</strong> 
-              <br>We may use the Data you provide for one or more of the following purposes: 
-              <br>1. For the supply of any other products and/or services which we may offer to you or you may require from us from time to time;
-              <br>2. For payment purposes for such information, services or products;
-              <br>3. For use of the online services available at any of our websites and/or through other telecommunication channels;
-              <br>4. For our own marketing, research, promotional and customer relationship management purposes, such as sending you updates on our latest offers and promotions in relation to any of our products and services from time to time;
-              <br>5. For leasing, development, selling, buying, management or other related services;
-              <br>6. For identification and verification purposes in connection with any of the services or products that may be supplied to you;
-              <br>7. For reservations with or through us;
-              <br>8. For use of any membership clubs or other reward programmes;
-              <br>9. For communicating with you by email, mail, fax, phone or other means;
-              <br>10. For the use of any of our subsidiaries, associate companies and/or business associates in connection with any of the above purposes and/or any of the services such companies and associates may be offering to you from time to time; and/or
-              <br>11. For any other incidental or associated purposes relating to the above and any other purpose which a customer or a service recipient may from time to time agree.
-              <br>We will not knowingly or intentionally use, share, sell or rent the Data provided to us in ways unrelated to the purposes aforementioned. 
-              <br><br><strong>D. Disclosure and Transfer of Personal Data</strong> 
-              <br>We may disclose and transfer the Data to our subsidiaries, associated companies and/or business associates and other persons who we consider appropriate in connection with the services and products provided or to be provided to you; to facilitate communication of news and information about such services and products; and/or otherwise relating to the purposes mentioned above. Otherwise, we will not disclose or transfer the Data to other parties. 
-              <br>The Data you provide to us may also be sourced from or transferred to other jurisdictions outside the Hong Kong Special Administrative Region of the People's Republic of China ("Hong Kong") for the purposes mentioned above. We will try to ensure, as far as possible and practicable, that Data sourced or transferred outside Hong Kong is protected to standards in line with the requirements of the Personal Data (Privacy) Ordinance (Cap. 486 of the Laws of Hong Kong) (the "Ordinance"), subject to any other requirements and limitations of the particular jurisdiction. 
-              <br>We may disclose the Data when required by law or court order of any jurisdiction, or as requested by any government or law enforcement authorities or administrative organs, or in the good faith that disclosure is otherwise necessary or advisable including and without limitation to protect the rights or properties of SPL and its subsidiaries and associated companies or in circumstances which we consider to be related to any of the purposes for which the Data are collected. This also applies when we have reason to believe that disclosing the Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
-              <br>
-              <br><br><strong>E. Data Security</strong> 
-              <br>The Data you provide to us will be kept by us in the appropriate form only for as long as is necessary to fulfill the purposes mentioned above after which it will be destroyed. 
-              <br>In order to ensure the correct use and to maintain the accuracy of Data collected from you, as well as preventing unauthorised or accidental access, processing, erasure or other use of the Data, we have implemented various physical, electronic and management measures to safeguard and secure the Data we collect. 
-              <br><br><strong>F. Use of Cookies </strong>
-              <br>A cookie is a small text file that our website transfers to your computer's hard disk. The use of cookies means we can better serve you and/or maintain your information across multiple pages within or across one or more sessions. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. 
-              <br>Cookies contain information about you and your preferences. For example, if you inquire about rates and availability, the site might create a cookie that contains the details you entered. Or it might only contain a record of which pages within the site you visited, to help the site customise the view for you the next time you visit. 
-              <br>Only the information that you provide, or the choices you make while visiting a website, can be stored in a cookie. For example, the site cannot determine your email name unless you choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can read it. 
-              <br><br><strong>G. Log Files </strong>
-              <br>We may also collect information regarding your IP address, browser type, domain name and access time. This information is used for our own research purposes and as it is not linked to any personal information so is separate from the Data. In rare instances, IP addresses may be used to assist in deterring and/or preventing abusive or criminal activity on the website. 
-              <br><br><strong>H. Our Commitment to Data Security </strong>
-              <br>To maintain the accuracy of the Data, as well as preventing unauthorised access and ensuring the correct use of the Data, we have carried out appropriate physical, electronic and management measures to safeguard and secure the Data we collect online. We use an industry standard for encryption over the Internet known as Secure Socket Layer (SSL) protocol, to protect the Data. When you type in sensitive information such as credit card details, it will be automatically converted into codes before being securely dispatched over the Internet. 
-              <br>The Data you provide to us will be stored in a database for no longer than is necessary. The website has a firewall in place, which should protect the Data collected from you against unauthorised or accidental access. However, complete confidentiality and security is not yet possible over the Internet, and privacy cannot be assured in your communications to us. You acknowledge that personal information is disclosed at your own risk, and may be subject to unauthorised use by others. This may result in, among others, you receiving unsolicited messages from other parties. We are not responsible in any manner for direct, indirect, special or consequential damages, howsoever caused arising out of the communication of information to us. You are encouraged to protect against unauthorised access to your password and credit card details. Make sure you sign out from your account when finished particularly when using a shared computer. 
-              <br><br><strong>I. Our Commitment to Children's Privacy </strong>
-              <br>Protecting the privacy of children is our primary concern. Hence, we will not knowingly collect or maintain Data in our database from persons who are under 13 years of age without prior consent from a parent or guardian. 
-              <br><br><strong>J. Other Websites </strong>
-              <br>In order to anticipate your needs, this website may contain links to third party sites that are operated under different privacy practices. 
-              <br>All such websites are independent from this website and from SPL and its affiliates. SPL and its affiliates have no control over the contents of such other websites or their privacy policies or compliance with the law, and do not vouch for their security. You should therefore be fully aware the provision of the link does not constitute an endorsement, approval, or any form of association by or with SPL or any of its affiliates. You should therefore remain alert when you leave our site, and read the privacy statements of other websites. We have no control over Data that is submitted to these third parties. You access the data on such websites at your own risk. 
-              <br><br><strong>K. Your Choice </strong>
-              <br>You always have ultimate choice and control over the type of information you would like to receive from us. When you use our online services or receive our promotional materials, you will have the chance to indicate your choice to receive, or not to receive in future, promotional materials from us or our subsidiaries, associated companies and/or business associates. We will occasionally send you updates about our latest products and services, as well as special offers. Should you decide not to receive any updates from us, feel free to cancel your subscription to these services by contacting us via the contact information provided on the websites or as indicated in the relevant materials. 
-              <br><br><strong>L. How to Access or Correct Your Data or Contact Us </strong>
-              <br>You are entitled to access or correct any Data relating to you held by us. If you wish to obtain a copy of any of your Data or if you believe that the Data relating to you which we collect and maintain is inaccurate, please write to us at the address below. 
-              <br>A request for access to Data, correction of Data, or for information regarding policies and practices and kinds of Data held by SPL may be sent to us at the following address: 
-              <br>The Privacy Compliance Officer
-              <br>Swire Properties Limited
-              <br>64/F, One Island East, 18 Westlands Road, Island East, Hong Kong
-              <br>
-              <br>In accordance with the terms of the Ordinance, we have the right to charge a reasonable fee for the processing of any data access request.
-              <br><br><strong>M. Access to Data Privacy Policy Statement </strong>
-              <br>You may access and obtain a copy of our Data Privacy and Security Policy Statement, as amended from time to time at www.swireproperties.com so that you are always informed of the way we collect and use the Data.
-              <br>This notice is in compliance with the Ordinance.
-              <br>It is written in the English language and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version shall prevail.
-              </p>
+              <p><strong>太古地產有限公司（「太古地產」）</strong><br>
+              <br><strong>資料私隱及保安政策  </strong>
+              <br><br><strong>A. 致力保護個人資料  </strong>
+              <br>我們致力保護個人資料的私隱。為確保閣下使用我們的網站時能夠作出知情的決定，放心向我們提供用作識別個人身份的資料（下稱「資料」），我們謹此概述我們有關蒐集及利用閣下資料的常規，讓閣下明白自己選擇提供資料的權利。  
+              <br><br><strong>B. 蒐集的資料 </strong>
+              <ul class="list-unstyled">
+                <li>我們會就閣下所使用的服務及產品蒐集資料，而資料類別則視乎服務及產品的特定類型而定；蒐集的資料會作下文所述的用途，當中可能包括：</li>
+                <li>1. 閣下的個人資料，包括姓名、性別、出生日期、國籍、家庭狀況、護照或其他身份證明文件號碼、與我們附屬公司、聯營公司及／或業務夥伴的登記狀況詳情；</li>
+                <li>2. 閣下的聯絡資料，包括但不限於電話號碼、郵寄地址、電郵地址及傳真號碼；</li>
+                <li>3. 閣下的商業資料，例如公司名稱及職銜；</li>
+                <li>4. 閣下的信用咭或其他簽賬咭資料，包括咭主姓名、咭號、賬單地址及到期日。</li>
+                <li>我們亦可能會蒐集並非用作識別個人身份的資料，例如有關使用我們網頁的情況、個人喜好及意見，以及對推廣優惠及研究的回應。</li>
+                <li>閣下如向我們提供資料，即表示閣下確認是在公平合理的情況下向我們提供有關資料，而我們亦謹此強調，閣下並無義務向我們提供資料。然而，如閣下選擇不向我們提供資料，則我們可能無法為閣下提供有關的資訊、服務或產品。</li>
+              </ul>
+              <br><br><strong>C. 蒐集資料的目的及用途 </strong> 
+              <ul class="list-unstyled">
+                <li>我們可能會將閣下提供的資料用作以下一個或多個用途︰</li>
+                <li>1. 讓我們可不時向閣下提供或閣下可能要求我們提供的任何其他產品及／或服務；</li>
+                <li>2. 就有關資訊、服務或產品付款；</li>
+                <li>3. 使用我們任何網站及／或通過其他電訊途徑提供的網上服務；</li>
+                <li>4. 用於我們本身的市場推廣、研究、宣傳及客戶關係管理，包括不時向閣下發出任何產品及服務的最新優惠及推廣資訊；</li>
+                <li>5. 租賃、發展、出售、購買、管理或其他相關服務；</li>
+                <li>6. 就可能為　閣下提供的任何服務或產品進行身份識別及核實用途；</li>
+                <li>7. 向我們或透過我們進行預約；</li>
+                <li>8. 享用任何會籍或其他獎賞計劃；</li>
+                <li>9. 利用電郵、郵寄、傳真、電話或其他方式與閣下聯繫；</li>
+                <li>10. 用於我們旗下任何附屬公司、聯營公司及／或業務夥伴，用作上述任何用途及／或以便該等公司及夥伴不時為閣下提供任何服務；及／或</li>
+                <li>11. 與上文有關的任何其他附帶或相關用途，以及客戶或服務使用者不時同意的任何其他用途。</li>
+                <li>我們將不會明知或蓄意地使用、分享、出售或出租獲提供的資料，以用於與上文所述無關的用途。</li>
+              </ul>
+              <br><br><strong>D. 披露及傳送個人資料 </strong> 
+              <ul class="list-unstyled">
+                <li>我們可能會就已為閣下提供或將為閣下提供的服務及產品，向我們旗下的附屬公司、聯營公司及／或業務夥伴及我們認為合適的其他人士披露及傳送資料；用於傳遞有關服務及產品的消息及資訊；及／或用作上文所述的相關用途。除以上用途以外，我們不會向其他人士披露或傳送資料。</li>
+                <li>閣下向我們提供的資料亦可能源自或被傳送至中華人民共和國香港特別行政區（「香港」）以外的司法管轄區，以作上述用途。我們將會在實際可行情況下，盡力確保按照與個人資料（私隱）條例（香港法例第486章）（「該條例」）的規定一致的準則，保護源自或被傳送至香港境外的資料，惟須符合該特定司法管轄區的任何其他規定及限制。</li>
+                <li>在若干情況下，我們可能透露資料，有關情況包括：應任何司法管轄區的法律或法庭命令的要求；或應任何政府或執法機關或行政機關的要求；或在我們真誠地相信透露資料屬必需或合宜，當中包括但不限於用作保護太古地產、其附屬公司及聯營公司的權利或財產；或在我們認為與蒐集資料的目的相關的任何情況。如我們有理由相信必須披露資料，以確認或聯絡任何故意或基於其他原因危及我們權利或財產的人士，或向有關人士採取法律行動，又或任何人士將因此而受到傷害時，我們亦會披露資料。</li>
+              </ul>
+              <br><br><strong>E. 資料保安 </strong> 
+              <ul class="list-unstyled">
+                <li>我們會以適當的方式保存閣下提供的資料，並僅作上文所述的必需用途，有關資料在完成用途後將會被銷毀。</li>
+                <li>為確保正確使用資料、維持所蒐集資料的準確性，並防止資料未經授權或意外的讀取、處理、刪改，或將有關資料用作其他用途，我們已實施多項實質、電子及管理措施，以保障資料安全。</li>
+              </ul>
+              <br><br><strong>F. 使用曲奇檔案 (Cookies) </strong>
+              <ul class="list-unstyled">
+                <li>曲奇檔案是我們網站傳送至閣下電腦硬碟的小型文字檔案。使用曲奇檔案有助我們為閣下提供更優質的服務，及／或於一個或多個時段或跨時段內，在多個頁面之中保存閣下的資料。大部分瀏覽器會自動接受曲奇檔案，但閣下亦可自行修改瀏覽器選項，在日後攔截曲奇檔案。</li>
+                <li>曲奇檔案載有關於閣下的資料及喜好。舉例來說，假如閣下查詢租金及供應情況，網站可能會建立一個載有　閣下所輸入詳細資料的曲奇檔案。曲奇檔案亦可能僅載有閣下曾在網站內瀏覽頁面的記錄，以便網站在　閣下再次瀏覽時為閣下選定個人化的頁面。</li>
+                <li>曲奇檔案只會儲存閣下提供的資料或閣下在瀏覽網站時作出的選擇。舉例來說，除非閣下選擇輸入電郵名稱，否則網站並無法識別閣下的電郵名稱。准許一個網站建立曲奇檔案並不代表准許該網站或任何其他網站讀取閣下電腦的其他部分，而只有建立有關曲奇檔案的網站才能夠讀取有關的曲奇檔案。</li>
+              </ul>
+              <br><br><strong>G. 登入存檔 </strong>
+              我們亦可能會蒐集閣下的網絡協議位址(IP address)、瀏覽器類別、網域名稱及存取時間等資料。此類資料會用作內部研究。由於此類資料與任何個人資料並無關連，此類資料將與個人資料分開處理。於特殊情況下，網絡協定位址可用作協助阻嚇及／或防止在網站内的濫用或犯罪行為。 
+              <br><br><strong>H. 致力保障資料安全 </strong>
+              <ul class="list-unstyled">
+                <li>為保持資料的準確性，防止在未經授權的情況下讀取資料，並確保正確使用資料，我們已採取適當的實質、電子及管理措施，保障及確保在網上蒐集的資料的安全。我們採用名為SSL的行内標準加密資訊渠道保護資料。當閣下輸入信用咭資料等敏感資料時，有關資料將會自動轉變成密碼，然後透過互聯網安全發送。</li>
+                <li>閣下向我們提供的資料將會儲存在資料庫中，直至不需要使用有關資料為止。網站亦設有防火牆保護資料，防止未經授權或意外的讀取。然而，互聯網尚未有措施能夠確保資料完全保密及安全，故無法確保雙方之間的通訊能夠完全保密。閣下確認披露個人資料將須自行承擔風險，亦明白資料有可能會在未經授權的情況下遭他人使用，而此舉可能導致（其中包括）閣下接收其他人士的自來訊息。不論這些損失是如何引致，我們不會以任何方式對因向我們傳送資料而引致的直接、間接、特殊或相應的損失承擔任何責任。敬請閣下妥善保護密碼及信用咭資料，防止在未經授權的情況下被讀取。當使用公共電腦時，務請確保於使用後登出閣下的賬戶。</li>
+              </ul>
+              <br><br><strong>I. 致力保護兒童私隱 </strong>
+              <p>我們特別關注保護兒童私隱。因此，未經家長或監護人同意前，我們不會明知而蒐集或於資料庫中儲存十三歲以下人士的資料。 </p>
+              <br><br><strong>J. 其他網站 </strong>
+              <ul class="list-unstyled">
+                <li>為了切合閣下的需要，本網站可能載有第三方網站的連結，而該等網站遵行不同的私隱慣例。</li>
+                <li>該等網站一律與本網站、太古地產及其聯屬公司概無關連。太古地產及其聯屬公司不能控制該等網站的內容、私隱政策或是否符合法例規定，亦不能保證其安全。因此，閣下應該充分意識到提供該等連結並不構成太古地產或其任何聯屬公司的認可、同意或任何形式的聯繫。當閣下離開我們的網站並連結至其他網站時，應時刻提高警覺，並細閱該等網站的私隱聲明。我們無法控制提交予該等第三方的資料。閣下在該等網站讀取資料須自行承擔風險。</li>
+              </ul>
+              <br><br><strong>K. 選擇權 </strong>
+              <br>閣下任何時候均擁有最終的權利選擇及控制想從我們收到的資料類型。當閣下使用我們的網上服務或收取宣傳資訊時，閣下將有機會表示日後是否願意收到我們或旗下附屬公司、聯營公司及／或業務夥伴的宣傳資訊。我們會不定期向閣下發出有關最新產品及服務的更新消息及特別優惠。如閣下決定不再接收任何更新消息，歡迎利用網站或有關資訊所載列的方法聯絡我們，停止接收有關訊息。 
+              <br><br><strong>L. 索取或更改資料或聯絡我們 </strong>
+              <ul class="list-unstyled">
+                <li>閣下有權索取或更改我們擁有有關閣下的資料。如要索取資料副本，或如果閣下認為我們蒐集及保存的資料並不準確，敬請致函以下地址。</li>
+                <li>如要索取或更改資料，或索取關於太古地產的政策、常規及保存的資料類型等資訊，歡迎郵寄至以下地址：</li>
+                <li>香港港島東華蘭路18號港島東中心64樓</li>
+                <li>太古地產有限公司</li>
+                <li>資料私隱主任　收</li>
+                <li>根據該條例的條文，我們有權就索取資料提出的要求收取合理費用。</li>
+              </ul>
+              <br><br><strong>M. 索取資料私隱政策聲明 </strong>
+              <p>閣下可於www.swireproperties.com 閱覽及取得不時修訂的資料私隱及保安政策聲明，以便時刻知悉我們蒐集及使用資料的方法。 本通知符合該條例的規定。本通知以英文撰寫，並可能翻譯成其他語言。如英文版本與翻譯版本有任何歧異，概以英文版本為準。 </p>
             </div>
           </div>
         </div>
@@ -185,15 +184,11 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="myModalLabel">COPYRIGHT</h4>
+              <h4 class="modal-title" id="myModalLabel">版權</h4>
             </div>
             <div class="modal-body">
-              <p>The entire content of this website is subject to copyright with all rights reserved. You may print and/or download a hard copy of
-              individual pages of this website for your own personal, non-commercial use provided that you do not remove any copyright notices.</p>
-              <p>Please be informed that no hypertext links to this website may be made without prior written approval from Swire Properties Limited.
-              In respect of any third-party websites referred to or accessed by hypertext link through this website approved by Swire Properties
-              Limited, the copyright of the contents of such third-party websites shall belong to their respective owners. You are advised to 
-              obtain the opinion of such respective owners before using and/or copying the contents of their websites.</p>
+              <p>本網站所載之所有內容均受有關版權所保護，所有權利均獲保留，閣下可列印或下載本網站任何網頁的硬副本，作私人或非商業用途，惟不得刪除任何版權聲明。</p>
+              <p>所有與本網站之連結必須事先得到太古地產有限公司的書面同意。本網站所提及的或獲得太古地產有限公司同意，透過連結方式經本網站進入的任何第三者網站， 該第三者網站內容的版權為有關網站擁有者所擁有，閣下欲使用或複印該等網站之內容時，應諮詢有關網站擁有者。</p>
             </div>
           </div>
         </div>

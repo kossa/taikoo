@@ -118,7 +118,7 @@ footer#footer a:hover{color: #000;}
 section.amenties{background-color: #E2E2E2;}
 section.amenties .big-image{background-image: url(../img/img-07.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
 section.amenties .wrapper{padding: 70px 60px;}
-section.amenties .wrapper h4{line-height: 1.5;}
+section.amenties .wrapper h4{line-height: 1.5; margin-bottom: 30px;}
 section.amenties .wrapper h3{margin-bottom: 25px;}
 section.amenties .wrapper {line-height: 1.5;}
 section.amenties .wrapper p{margin-bottom: 30px;}
@@ -156,7 +156,7 @@ section.location{background-color: #E2E2E2;}
 section.location .big-image{background-image: url(../img/img-08.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
 section.location .big-image.second{background-image: url(../img/img-10.jpg);height: 700px;}
 section.location .wrapper{padding: 70px 60px;}
-section.location .wrapper h4{line-height: 1.5;}
+section.location .wrapper h4{line-height: 1.5; margin-bottom: 30px;}
 section.location .wrapper h3{margin-bottom: 25px;}
 section.location .wrapper {line-height: 1.5;}
 section.location .wrapper p{margin-bottom: 30px;}
@@ -227,7 +227,7 @@ ul.slick-dots li.slick-active{background: url('../img/dot-active.png');}
 
 
 /*Modals*/
-.modal-body{margin: 100px;}
+.modal-body{margin: 100px; max-height: 400px; overflow: auto;}
 
 @media screen and (max-width: 1200px){
     section.slider .item{height: 400px;}
@@ -364,10 +364,18 @@ ul.slick-dots li.slick-active{background: url('../img/dot-active.png');}
 }
 
 
+
 /*
 |------------------------------------------------------------------------------------
-| Iphone
+| Max Height
 |------------------------------------------------------------------------------------
 */
-
-
+@media (max-height: 800px){
+    .modal-body{max-height: 440px; overflow: auto;}
+}
+@media (max-height: 600px){
+    .modal-body{max-height: 300px; margin: 50px; overflow: auto;}
+}
+@media (max-height: 400px){
+    .modal-body{max-height: 130px; overflow: auto;}
+}

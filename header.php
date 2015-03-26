@@ -43,8 +43,8 @@
         <div class="container">
           <div class="pull-left">
             <ul class="list-inline">
-              <li><a target="_blank" href="http://www.pacificplaceapartments.com.hk/en/">繁</a></li>
-              <li><a target="_blank" href="http://www.pacificplaceapartments.com.hk/en/">簡</a></li>
+              <li><a href="ch/index.php">繁</a></li>
+              <li><a href="ch-simp/index.php">簡</a></li>
             </ul>
           </div>
           <a target="_blank" href="http://www.pacificplaceapartments.com.hk/en" class="connect">Connect with Pacific Place apartments</a>
@@ -78,8 +78,8 @@
             <div class="container">
               <div class="in-left">
                 <ul class="list-inline">
-                  <li><a href="http://www.pacificplaceapartments.com.hk/en/">繁</a></li>
-                  <li><a href="http://www.pacificplaceapartments.com.hk/en/">簡</a></li>
+                  <li><a href="ch/index.php">繁</a></li>
+                  <li><a href="ch-simp/index.php">簡</a></li>
                 </ul>
               </div>
               <a href="http://www.pacificplaceapartments.com.hk/en" class="connect">Connect with Pacific Place apartments</a>
@@ -97,7 +97,7 @@
       <h1>our LATEST OFFER</h1>
       <div class="wrapper">
         <p>Preferential rentals of up to 25% discounts at selective one-bedroom suites available for lease. The Landlord reserves the right to decide on the promotion period and all other terms and conditions relating to the lettings. For more details or viewing arrangement</p>
-        <p><strong>Phone</strong> <br>(852) 2844 8361 </p>
+        <p><strong>Phone</strong> <br>(852) 2844 8323 </p>
         <p><strong>Email</strong> <br>tpapartments@swireproperties.com.</p>
       </div>
       <a href="#" id="close-offers">x</a>

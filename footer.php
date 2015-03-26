@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-sm-4">
             <h4>Phone</h4>
-            <p>(852) 2844 8361</p>
+            <p>(852) 2844 8323</p>
           </div>
           <div class="col-sm-4">
             <h4>Address</h4>
@@ -209,7 +209,7 @@
               <h4 class="modal-title" id="myModalLabel">Thank you for your message</h4>
             </div>
             <div class="modal-body">
-              <p>A representative will reach out to you shortly to discuss your inquiry. If you need immediat service please call us at (852) 2844 8361.</p>
+              <p>A representative will reach out to you shortly to discuss your inquiry. If you need immediat service please call us at (852) 2844 8323.</p>
             </div>
           </div>
         </div>
@@ -225,7 +225,7 @@
               <h4 class="modal-title" id="myModalLabel">Error</h4>
             </div>
             <div class="modal-body">
-              <p>Your message not sent. If you need immediat service please call us at (852) 2844 8361.</p>
+              <p>Your message not sent. If you need immediat service please call us at (852) 2844 8323.</p>
             </div>
           </div>
         </div>
