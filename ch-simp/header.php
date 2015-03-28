@@ -99,7 +99,7 @@
       <div class="wrapper">
         <p>高達25％的折扣，在選擇一間臥室的套房，可供租賃的租金優惠。業主有權決定推廣期以及有關租約所有其他條款及條件的權利。欲知更多詳情或安排觀看</p>
         <p><strong>電話</strong> <br>(852) 2844 8323 </p>
-        <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com.</p>
+        <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com</p>
       </div>
       <a href="#" id="close-offers">x</a>
     </section><!-- offers -->

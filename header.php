@@ -96,9 +96,9 @@
     <section id="offers">
       <h1>our LATEST OFFER</h1>
       <div class="wrapper">
-        <p>Preferential rentals of up to 25% discounts at selective one-bedroom suites available for lease. The Landlord reserves the right to decide on the promotion period and all other terms and conditions relating to the lettings. For more details or viewing arrangement</p>
+        <p>Thank you for your interest in Taikoo Place Apartments. Please contact us for more details or viewing arrangements.</p>
         <p><strong>Phone</strong> <br>(852) 2844 8323 </p>
-        <p><strong>Email</strong> <br>tpapartments@swireproperties.com.</p>
+        <p><strong>Email</strong> <br>tpapartments@swireproperties.com</p>
       </div>
       <a href="#" id="close-offers">x</a>
     </section><!-- offers -->

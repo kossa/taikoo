@@ -126,7 +126,7 @@
             <div class="wrapper" style="background-image: url(img/img-03.jpg);"></div>
             <footer>
               <h3>Amenities</h3>
-              <p>Exclusive homes optimized for comfort, space and efficiency</p>
+              <p>Our revitalizing clubhouse</p>
             </footer>
           </a>
         </div>
