@@ -2,8 +2,7 @@
 
     <section class="contemporary-comfort">
       <div class="container">
-        <h3>首頁</h3>
-        <h2>生活的啟發</h2>
+        <h2>温馨雅致</h2>
       </div>
     </section><!-- contemporary-comfort -->
 
