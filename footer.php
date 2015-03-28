@@ -8,7 +8,7 @@
           </div>
           <div class="col-sm-4">
             <h4>Address</h4>
-            <p>23 Tong Chong Street, Taikoo Place Hong Kong</p>
+            <p>Taikoo Place Apartments, Taikoo Place, 23 Tong Chong Street, Quarry Bay, Hong Kong</p>
           </div>
           <div class="col-sm-4">
             <h4>Email</h4>
