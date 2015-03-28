@@ -78,22 +78,22 @@
           <a href="#" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-01.jpg);"></div>
             <footer>
-              <h3>地點</h3>
-              <p>商務和娛樂的全面集成網絡</p>
+              <h3>位置</h3>
+              <p>商業、娛樂及文化設施配套完善</p>
             </footer>
           </a>
           <a href="#" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-02.jpg);"></div>
             <footer>
               <h3>住宅</h3>
-              <p>立即邀請，輕鬆瀟灑</p>
+              <p>優雅而富現代感的室內設計</p>
             </footer>
           </a>
           <a href="#" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-03.jpg);"></div>
             <footer>
-              <h3>設施</h3>
-              <p>舒適，空間和效率進行了優化專屬的家園</p>
+              <h3>服務及設施</h3>
+              <p>洗滌身心的住客會所</p>
             </footer>
           </a>
         </div>

@@ -1,6 +1,6 @@
 <section class="get-in-touch" id="getintouch">
       <div class="container">
-        <h1>取得聯繫</h1>
+        <h1>保持聯絡</h1>
         <div class="row">
           <div class="col-sm-4">
             <h4>電話</h4>
@@ -25,7 +25,7 @@
           <div class="row">
             <div class="col-sm-6">
               <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="你的名字">
+                <input type="text" class="form-control" name="name" placeholder="您的名字">
               </div>
               <div class="form-group">
                 <input type="Email" class="form-control" name="email" placeholder="電子郵件">
@@ -41,10 +41,9 @@
               <div class="form-group">
                 <textarea class="form-control" name="message" placeholder="輸入您的留言"></textarea>
               </div>
-              <button type="submit" class="btn btn-default btn-lg">輸入您的留言</button>
+              <button type="submit" class="btn btn-default btn-lg">發出</button>
             </div>
           </div>
-          <p>通過點擊「提交」,本人同意根據太古地產的私隱條例 ,本人的個人資料可使用並提供為直接促銷的目的。</p>
         </form>
       </div>
     </section>

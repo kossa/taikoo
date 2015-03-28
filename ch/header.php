@@ -48,7 +48,7 @@
               <li><a href="../ch-simp/">簡</a></li>
             </ul>
           </div>
-          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接與太古廣場公寓</a>
+          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接太古廣場柏舍</a>
         </div>
       </div>
       <div id="logo">
@@ -68,12 +68,12 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="location.php">地點</a></li>
+              <li><a href="location.php">位置</a></li>
               <li><a href="residences.php">住宅</a></li>
-              <li><a href="amenities.php">設施</a></li>
-              <li><a href="#" id="open-offsers">報價</a></li>
+              <li><a href="amenities.php">服務及設施</a></li>
+              <li><a href="#" id="open-offsers">最新消息</a></li>
               <li><a href="#getintouch" id="contact">聯繫</a></li>
-              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">宣傳冊</a></li>
+              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">小冊子</a></li>
             </ul>
             <div id="top-bottom">
             <div class="container">
@@ -83,7 +83,7 @@
                   <li><a href="../ch-simp/">簡</a></li>
                 </ul>
               </div>
-              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接與太古廣場公寓</a>
+              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接太古廣場柏舍</a>
             </div>
           </div><!-- top-bottom -->
           
@@ -95,9 +95,9 @@
 
 
     <section id="offers">
-      <h1>我們的最新報價</h1>
+      <h1>我們的最新消息</h1>
       <div class="wrapper">
-        <p>高達25％的折扣，在選擇一間臥室的套房，可供租賃的租金優惠。業主有權決定推廣期以及有關租約所有其他條款及條件的權利。欲知更多詳情或安排觀看</p>
+        <p>感謝您對太古坊柏舍感興趣，如欲查詢詳情或預 約參觀，請與我們聯絡。</p>
         <p><strong>電話</strong> <br>(852) 2844 8323 </p>
         <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com</p>
       </div>

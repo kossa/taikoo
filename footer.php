@@ -44,7 +44,6 @@
               <button type="submit" class="btn btn-default btn-lg">Send</button>
             </div>
           </div>
-          <p>By clicking "SUBMIT", I agree that my personal data can be used and provided for direct marketing purpose in accordance with the privacy policy of Swire Properties Limited.</p>
         </form>
       </div>
     </section>

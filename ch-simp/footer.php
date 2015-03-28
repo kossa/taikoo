@@ -44,7 +44,6 @@
               <button type="submit" class="btn btn-default btn-lg">发送</button>
             </div>
           </div>
-          <p>通过点击「提交」,本人同意根据太古地产的私隐条例 ,本人的个人资料可使用并提供为直接促销的目的。</p>
         </form>
       </div>
     </section>
