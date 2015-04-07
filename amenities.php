@@ -33,7 +33,6 @@
               <h3>OUR REVITALIZING CLUBHOUSE</h3>
               <h4>Exclusively occupying the podium's top floor, the clubhouse at Taikoo Place Apartments is a truly unique haven for healthy living.</h4>
               <p>The central lounge emulates the relaxed ambience of a stylish living room, offering a refreshment bar and a reading lounge that also serves as a business centre. The clubhouse also comprises two opulent spas, a modern gym, two outdoor terraces, and laundry facilities.</p>
-              <p>Artist impression of reading lounge in clubhouse</p>
             </div>
           </div>
           <div class="first visible-xs">
@@ -46,7 +45,6 @@
             <div class="wrapper">
               <h3>THE SPA</h3>
               <p>Unwind from the stimulating atmosphere of Taikoo Place within our restorative spas. Our intimate spa invites singles and couples to rejuvenate in private, or share our larger spa with friends, which is furnished with heated chaises and a tranquil lounge. The spas' superb interiors also incorporate deluxe rain showers, Jacuzzi and steam rooms.</p>
-              <p>Artist impression of spa in clubhouse</p>
             </div>
           </div>
           <div class="second">

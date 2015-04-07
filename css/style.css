@@ -60,7 +60,7 @@ section.slider .carousel-indicators li.active:after{content: ""; position: absol
 
 
 /*contemporary-comfort*/
-section.contemporary-comfort{text-align: center;padding: 86px 0;background: #E2E2E2 url(../img/bg-lines.png ) repeat;}
+section.contemporary-comfort{text-align: center;padding: 50px 0;background: #E2E2E2 url(../img/bg-lines.png ) repeat;}
 section.contemporary-comfort h2{font-size: 48px;font-family: 'proxima_nova_ththin', sans-serif;}
 section.contemporary-comfort h3{font-size: 24px;}
 

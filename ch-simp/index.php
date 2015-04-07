@@ -45,25 +45,25 @@
           <div class="col-sm-5 col-sm-offset-1">
             <section class="table">
               <div class="first">
-                <h3>大廈資料</h3>
+                <h3>大厦资料</h3>
 
                 <ul class="list-unstyled">
-                  <li><span class="prop">單位數目</span> <span class="pull-right">111</span></li>
-                  <li><span class="prop">開放式單位</span> <span class="value">63</span></li>
-                  <li><span class="prop">一房單位</span> <span class="value">40</span></li>
-                  <li><span class="prop">兩房單位</span> <span class="value">6</span></li>
-                  <li><span class="prop">頂層特式單位</span> <span class="value">2</span></li>
+                  <li><span class="prop">单位数目</span> <span class="pull-right">111</span></li>
+                  <li><span class="prop">开放式单位</span> <span class="value">63</span></li>
+                  <li><span class="prop">一房单位</span> <span class="value">40</span></li>
+                  <li><span class="prop">两房单位</span> <span class="value">6</span></li>
+                  <li><span class="prop">顶层特色单位</span> <span class="value">2</span></li>
                 </ul>
               </div>
               
               <div class="second">
-                <h3>會所設施</h3>
+                <h3>会所设施</h3>
                 <ul class="list-unstyled">
-                  <li><span class="prop">水療中心</span> <span class="value">1,378</span></li>
+                  <li><span class="prop">水疗中心</span> <span class="value">1,378</span></li>
                   <li><span class="prop">健身室</span></li>
                   <li><span class="prop">戶外特色平台</span></li>
-                  <li><span class="prop">閱讀間 </span></li>
-                  <li><span class="prop">洗衣區</span></li>
+                  <li><span class="prop">阅读间 </span></li>
+                  <li><span class="prop">洗衣区</span></li>
                 </ul>
               </div>
             </section>
@@ -75,25 +75,25 @@
     <section class="our-products">
       <div class="container0">
         <div class="row">
-          <a href="#" class="col4">
+          <a href="location.php" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-01.jpg);"></div>
             <footer>
-              <h3>地點</h3>
-              <p>商務和娛樂的全面集成網絡</p>
+              <h3>位置</h3>
+              <p>商业，娱乐及文化设施配套完善</p>
             </footer>
           </a>
-          <a href="#" class="col4">
+          <a href="residences.php" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-02.jpg);"></div>
             <footer>
               <h3>住宅</h3>
-              <p>立即邀請，輕鬆瀟灑</p>
+              <p>优雅而富现代感的室内设计</p>
             </footer>
           </a>
-          <a href="#" class="col4">
+          <a href="amenities.php" class="col4">
             <div class="wrapper" style="background-image: url(../img/img-03.jpg);"></div>
             <footer>
-              <h3>設施</h3>
-              <p>舒適，空間和效率進行了優化專屬的家園</p>
+              <h3>服务及设施</h3>
+              <p>洗涤身心的住客会所</p>
             </footer>
           </a>
         </div>

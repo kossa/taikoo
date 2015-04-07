@@ -108,21 +108,21 @@
     <section class="our-products">
       <div class="container0">
         <div class="row">
-          <a href="#" class="col4">
+          <a href="location.php" class="col4">
             <div class="wrapper" style="background-image: url(img/img-01.jpg);"></div>
             <footer>
               <h3>Location</h3>
               <p>A fully integrated network of business and entertainment</p>
             </footer>
           </a>
-          <a href="#" class="col4">
+          <a href="residences.php" class="col4">
             <div class="wrapper" style="background-image: url(img/img-02.jpg);"></div>
             <footer>
               <h3>Residences</h3>
               <p>Instantly inviting and effortlessly chic</p>
             </footer>
           </a>
-          <a href="#" class="col4">
+          <a href="amenities.php" class="col4">
             <div class="wrapper" style="background-image: url(img/img-03.jpg);"></div>
             <footer>
               <h3>Amenities</h3>

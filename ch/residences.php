@@ -31,9 +31,9 @@
             <div class="wrapper" id="floor-plans">
               <h3>平面圖</h3>
               <ul class="list-unstyled">
-                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-15.jpg" target="_blank" href="../pdfs/30F.pdf">30樓</a></li>
-                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-16.jpg" target="_blank" href="../pdfs/29F.pdf">23樓 | 25–29樓</a></li>
-                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-17.jpg" target="_blank" href="../pdfs/22F.pdf">5–13樓 | 15–22樓</a></li>
+                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-15.jpg" target="_blank" href="../pdfs/TPA_TC_FloorPlan_30.pdf">30樓</a></li>
+                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-16.jpg" target="_blank" href="../pdfs/TPA_TC_FloorPlan_23-29.pdf">23樓 | 25–29樓</a></li>
+                <li><a data-imgorigin="../img/img-14.jpg" data-img="../img/img-17.jpg" target="_blank" href="../pdfs/TPA_TC_FloorPlan_5-22.pdf">5–13樓 | 15–22樓</a></li>
               </ul>
               <p class="hidden-p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse laudantium placeat, rem, exercitationem officiis ducimus? Debitis deleniti ad maxime, commodi magnam similique fuga voluptatibus sint, odit beatae iusto officiis voluptates.</p>
 

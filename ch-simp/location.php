@@ -27,34 +27,34 @@
       <div class="office-buildings-symbols">
         <div class="row">
           <div class="col-sm-8">
-            <h3>寫字樓</h3>
+            <h3>写字楼</h3>
             <ul class="list-unstyled">
-              <li><span>1</span> 康橋大廈</li>
+              <li><span>1</span> 康桥大厦</li>
               <li><span>2</span> 德宏大厦</li>
-              <li><span>3</span> 和域大廈</li>
+              <li><span>3</span> 和域大厦</li>
               <li><span>4</span> 多盛大厦</li>
-              <li><span>5</span> 電訊盈科中心</li>
+              <li><span>5</span> 电讯盈科中心</li>
             </ul>
             <ul class="list-unstyled">
-              <li><span>6</span>林肯大廈</li>
-              <li><span>7</span>康和大廈</li>
-              <li><span>8</span>港島東中心</li>
-              <li><span>9</span>濠豐大廈</li>
+              <li><span>6</span>林肯大厦</li>
+              <li><span>7</span>康和大厦</li>
+              <li><span>8</span>港岛东中心</li>
+              <li><span>9</span>濠丰大厦</li>
               <li></li>
             </ul>
             <ul class="list-unstyled">
-              <li><span>10</span>  栢克大廈</li>
+              <li><span>10</span>  柏克大厦</li>
               <li><span>11</span>  太古城中心一期</li>
-              <li><span>12</span>  太古城中心二期</li>
-              <li><span>13</span>  太古城中心三期</li>
+              <li><span>12</span>  太古城中心三期</li>
+              <li><span>13</span>  太古城中心四期</li>
               <li></li>
             </ul>
           </div>
           <div class="col-sm-4 symbols">
-            <h3>符號</h3>
+            <h3>写字楼</h3>
             <ul class="list-unstyled">
-              <li><img src="../img/img-11.png" alt="">  港鐵站</li>
-              <li><img src="../img/img-12.png" alt="">  停車場</li>
+              <li><img src="../img/img-11.png" alt="">  康桥大厦</li>
+              <li><img src="../img/img-12.png" alt="">  德宏大厦</li>
             </ul>
           </div>
         </div> 

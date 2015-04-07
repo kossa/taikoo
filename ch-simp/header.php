@@ -48,12 +48,12 @@
               <li><a href="../ch">繁</a></li>
             </ul>
           </div>
-          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接与太古广场公寓</a>
+          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接太古广场柏舍</a>
         </div>
       </div>
       <div id="logo">
         <div class="container">
-          <a href="index.php"><img src="../img/logo-ch.png" alt=""></a>
+          <a href="index.php"><img src="../img/logo-sc.png" alt=""></a>
         </div>
       </div>
       <div class="navbar" role="navigation">
@@ -68,12 +68,12 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="location.php">地点</a></li>
+              <li><a href="location.php">位置</a></li>
               <li><a href="residences.php">住宅</a></li>
-              <li><a href="amenities.php">设施</a></li>
-              <li><a href="#" id="open-offsers">报价</a></li>
+              <li><a href="amenities.php">服务及设施</a></li>
+              <li><a href="#" id="open-offsers">最新消息</a></li>
               <li><a href="#getintouch" id="contact">联系</a></li>
-              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">该宣传册</a></li>
+              <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">小冊子</a></li>
             </ul>
             <div id="top-bottom">
             <div class="container">
@@ -83,7 +83,7 @@
                   <li><a href="../ch">繁</a></li>
                 </ul>
               </div>
-              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接与太古广场公寓</a>
+              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接太古广场柏舍</a>
             </div>
           </div><!-- top-bottom -->
           
@@ -95,11 +95,11 @@
 
 
     <section id="offers">
-      <h1>我們的最新報價</h1>
+      <h1>我们的最新消息</h1>
       <div class="wrapper">
-        <p>高達25％的折扣，在選擇一間臥室的套房，可供租賃的租金優惠。業主有權決定推廣期以及有關租約所有其他條款及條件的權利。欲知更多詳情或安排觀看</p>
-        <p><strong>電話</strong> <br>(852) 2844 8323 </p>
-        <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com</p>
+        <p>感谢您对太古坊柏舍的关注，如欲查询详情或预约参观，请与我们联络。</p>
+        <p><strong>电话</strong> <br>(852) 2844 8323 </p>
+        <p><strong>电邮地址</strong> <br>tpapartments@swireproperties.com</p>
       </div>
       <a href="#" id="close-offers">x</a>
     </section><!-- offers -->

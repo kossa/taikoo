@@ -33,12 +33,12 @@
               <li><span>2</span> Devon House</li>
               <li><span>3</span> Warwick House</li>
               <li><span>4</span> Dorset House</li>
-              <li><span>5</span> Pccw Tower</li>
+              <li><span>5</span> PCCW Tower</li>
             </ul>
             <ul class="list-unstyled">
               <li><span>6</span>Lincoln House</li>
               <li><span>7</span>Cornwall House</li>
-              <li><span>8</span>One island East</li>
+              <li><span>8</span>One Island East</li>
               <li><span>9</span>Oxford House</li>
               <li></li>
             </ul>

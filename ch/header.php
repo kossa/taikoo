@@ -53,7 +53,7 @@
       </div>
       <div id="logo">
         <div class="container">
-          <a href="index.php"><img src="../img/logo-ch.png" alt=""></a>
+          <a href="index.php"><img src="../img/logo-sc.png" alt=""></a>
         </div>
       </div>
       <div class="navbar" role="navigation">
