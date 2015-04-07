@@ -348,6 +348,26 @@ ul.slick-dots li.slick-active{background: url('../img/dot-active.png');}
 
 /*
 |------------------------------------------------------------------------------------
+| Min Width
+|------------------------------------------------------------------------------------
+*/
+@media screen and (min-width: 1100px){
+    section > .big-image, section.slider .item{height: 600px!important;}
+}
+@media screen and (min-width: 1300px){
+    section > .big-image, section.slider .item{height: 700px!important;}
+}
+@media screen and (min-width: 1500px){
+    section > .big-image, section.slider .item{height: 800px!important;}
+}
+@media screen and (min-width: 1700px){
+    section > .big-image, section.slider .item{height: 900px!important;}
+}
+
+
+
+/*
+|------------------------------------------------------------------------------------
 | Min-width
 |------------------------------------------------------------------------------------
 */
