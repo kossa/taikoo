@@ -1,6 +1,6 @@
 <section class="get-in-touch" id="getintouch">
       <div class="container">
-        <h1>取得联系</h1>
+        <h1>保持联络</h1>
         <div class="row">
           <div class="col-sm-4">
             <h4>电话</h4>
@@ -8,10 +8,10 @@
           </div>
           <div class="col-sm-4">
             <h4>地址 </h4>
-            <p>香港鰂魚涌太古坊糖廠街23號栢舍</p>
+            <p>香港鲗鱼涌太古坊糖厂街23号柏舍</p>
           </div>
           <div class="col-sm-4">
-            <h4>电子邮件</h4>
+            <h4>电邮地址</h4>
             <p><a href="mailto:tpapartments@swireproperties.com">tpapartments@swireproperties.com</a></p>
           </div>
         </div>
@@ -25,7 +25,7 @@
           <div class="row">
             <div class="col-sm-6">
               <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="你的名字">
+                <input type="text" class="form-control" name="name" placeholder="您的名字">
               </div>
               <div class="form-group">
                 <input type="Email" class="form-control" name="email" placeholder="电邮地址">
@@ -52,7 +52,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4 col-sm-push-8">
-            <a target="_blank" href="http://www.swireproperties.com/sc/default.aspx"><img src="../img/logo-02.png" alt=""></a>
+            <a target="_blank" href="http://www.swireproperties.com/sc/default.aspx"><img src="../img/SPL-SC-95326.gif" alt=""></a>
           </div>
           <div class="col-sm-8 col-sm-pull-4">
             <div class="menu-footer">

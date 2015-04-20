@@ -52,7 +52,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4 col-sm-push-8">
-            <a target="_blank" href="http://www.swireproperties.com/tc/Pages/index.aspx"><img src="../img/logo-02.png" alt=""></a>
+            <a target="_blank" href="http://www.swireproperties.com/tc/Pages/index.aspx"><img src="../img/SPL-TC-95326.gif" alt=""></a>
           </div>
           <div class="col-sm-8 col-sm-pull-4">
             <div class="menu-footer">

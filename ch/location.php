@@ -45,8 +45,8 @@
             <ul class="list-unstyled">
               <li><span>10</span>  栢克大廈</li>
               <li><span>11</span>  太古城中心一期</li>
-              <li><span>12</span>  太古城中心二期</li>
-              <li><span>13</span>  太古城中心三期</li>
+              <li><span>12</span>  太古城中心三期</li>
+              <li><span>13</span>  太古城中心四期</li>
               <li></li>
             </ul>
           </div>

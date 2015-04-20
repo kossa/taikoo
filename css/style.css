@@ -154,7 +154,7 @@ section.amenties .line .first, section.amenties .line .second{display: table-cel
 /*Location Page*/
 section.location{background-color: #E2E2E2;}
 section.location .big-image{background-image: url(../img/img-08.jpg);height: 500px; z-index: 99; width: 100%; text-align: center; background-position: center center; -webkit-background-size: cover; background-size: cover;}
-section.location .big-image.second{background-image: url(../img/img-10.jpg);height: 700px;}
+section.location .big-image.second{background-image: url(../img/TPA-Location-Map-TC-41300.gif);height: 700px;}
 section.location .wrapper{padding: 70px 60px;}
 section.location .wrapper h4{line-height: 1.5; margin-bottom: 30px;}
 section.location .wrapper h3{margin-bottom: 25px;}

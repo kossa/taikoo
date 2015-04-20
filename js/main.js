@@ -1,19 +1,13 @@
 (function($){
 
-    // Slide paused
-    $('#carousel-kossa').carousel({interval: false});
 
-    // Swipe event
-    $('#carousel-kossa').swipe( {
-        //Generic swipe handler for all directions
-        swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
-            _dir = (direction == 'left') ? 'next' : 'prev' ;
-          $(this).carousel( _dir );  
-        },
-        //Default is 75px, set to 0 for demo so any distance triggers swipe
-      });
+    // Carousel
+    $('.your-class').slick({
+        "dots": true,
+    });
 
 
+            
 
     // Click on play button
     $(".wrapper a.play").click(
@@ -33,10 +27,10 @@
             // Play the fideo
             _video.get(0).play();
 
-            $('#carousel-kossa').on('slide.bs.carousel', function(){
+             // On before slide change
+            $('.your-class').on('beforeChange', function(event, slick, currentSlide, nextSlide){
                 _video.get(0).pause();
-
-            })
+            });
 
         }
     );
@@ -118,11 +112,6 @@
     );
 
 
-    // Carousel
-    $('.your-class').slick({
-        "dots": true,
-    });
-
     // Contact form submit
     $("#contact-form").submit(function (){
         var data = $(this).serialize();
@@ -147,6 +136,8 @@
 
         return false;
     });
+
+
 
 
 })(jQuery);

@@ -21,7 +21,7 @@
         </div>
       </div>
 
-      <div class="big-image second">
+      <div class="big-image second" style="background-image: url(../img/TPA-Location-Map-SC-34198.gif)">
       </div>
 
       <div class="office-buildings-symbols">
