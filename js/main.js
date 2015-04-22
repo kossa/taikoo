@@ -85,7 +85,6 @@
             _this = $(this),
             target = _this.attr('href').split("#")[1],
             target_top = $('#'+target);
-            console.log(target);
         
           //$('html, body').animate({scrollTop:target_top}, "slow");
           $("html, body").animate({scrollTop: target_top.offset().top }, 
