@@ -7,7 +7,7 @@
             <a href="#" class="play"></a>
           </div>
           <video autobuffer autoloop loop controls>
-            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
+            <source src="http://spl.blob.core.windows.net/tpa/video/TPA_Animation.mp4">
           </video>
         </div>
         <div class="item">
@@ -48,14 +48,13 @@
           <div class="col-sm-5 col-sm-offset-1">
             <section class="table">
               <div class="first">
-                <h3>Building Information</h3>
+                <h3>Residence Type</h3>
 
                 <ul class="list-unstyled">
-                  <li><span class="prop">NUMBER OF RESIDENCES</span> <span class="pull-right">111</span></li>
-                  <li><span class="prop">STUDIO</span> <span class="value">63</span></li>
-                  <li><span class="prop">ONE-BEDROOM</span> <span class="value">40</span></li>
-                  <li><span class="prop">TWO-BEDROOM</span> <span class="value">6</span></li>
-                  <li><span class="prop">PENTHOUSE</span> <span class="value">2</span></li>
+                  <li><span class="prop">STUDIO</span> <span class="value">477 – 484 sq ft</span></li>
+                  <li><span class="prop">One Bedroom</span> <span class="value">616 – 735 sq ft</span></li>
+                  <li><span class="prop">Two Bedrooms</span> <span class="value">1,220 sq ft</span></li>
+                  <li><span class="prop">Penthouse</span> <span class="value">1,220 and 1,610 sq ft</span></li>
                 </ul>
 
                 <!-- <dl class="dl-horizontal">

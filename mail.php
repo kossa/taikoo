@@ -1,5 +1,8 @@
 <?php
 
+ini_set('SMTP','192.2.1.237');
+ini_set('smtp_port',25);
+
 $msg = '';
 $msg .= "name : " . $_POST['name'] . "\r\n";
 $msg .= "email : " . $_POST['email'] . "\r\n";

@@ -7,7 +7,7 @@
             <a href="#" class="play"></a>
           </div>
           <video autobuffer autoloop loop controls>
-            <source src="http://spl.blob.core.windows.net/tpa/video/test.mp4">
+            <source src="http://spl.blob.core.windows.net/tpa/video/TPA_Animation.mp4">
           </video>
         </div>
         <div class="item">
@@ -48,14 +48,13 @@
           <div class="col-sm-5 col-sm-offset-1">
             <section class="table">
               <div class="first">
-                <h3>大廈資料</h3>
+                <h3>户型</h3>
 
                 <ul class="list-unstyled">
-                  <li><span class="prop">單位數目</span> <span class="pull-right">111</span></li>
-                  <li><span class="prop">開放式單位</span> <span class="value">63</span></li>
-                  <li><span class="prop">一房單位</span> <span class="value">40</span></li>
-                  <li><span class="prop">兩房單位</span> <span class="value">6</span></li>
-                  <li><span class="prop">頂層特式單位</span> <span class="value">2</span></li>
+                  <li><span class="prop">開放式單位</span> <span class="value">477 – 484平方呎</span></li>
+                  <li><span class="prop">一房單位</span> <span class="value">616 – 735平方呎</span></li>
+                  <li><span class="prop">兩房單位</span> <span class="value">1,220平方呎</span></li>
+                  <li><span class="prop">頂層特色單位</span> <span class="value">1,220 和1,610平方呎</span></li>
                 </ul>
               </div>
               
