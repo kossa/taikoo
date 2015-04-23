@@ -2,7 +2,7 @@
 
 ini_set('SMTP','192.2.1.237');
 ini_set('smtp_port',25);
-
+// tpapartments@swireproperties.com
 $msg = '';
 $msg .= "name : " . $_POST['name'] . "\r\n";
 $msg .= "email : " . $_POST['email'] . "\r\n";
@@ -12,12 +12,12 @@ $msg .= "message : " . $_POST['message'] . "\r\n";
 
 
 
-$headers = 'To: tpapartments@swireproperties.com' . "\r\n";
+$headers = 'To: hadjikouceyla@gmail.com' . "\r\n";
 $headers .= 'From: '.$_POST['email']. "\r\n";
 
 
 
-$to = "tpapartments@swireproperties.com";
+$to = "hadjikouceyla@gmail.com";
 $subject = "New email";
 
 $res = new stdClass();
