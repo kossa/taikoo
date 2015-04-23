@@ -32,8 +32,8 @@
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <link href="../css/ie8.css" rel="stylesheet">
-      <script src="../js/html5shiv.js"></script>
-      <script src="../js/respond.min.js"></script>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
     <![endif]-->
   </head>
 
@@ -45,10 +45,10 @@
           <div class="pull-left">
             <ul class="list-inline">
               <li><a href="../">ENG</a></li>
-              <li><a href="../ch">繁</a></li>
+              <li><a href="../ch-simp/">簡</a></li>
             </ul>
           </div>
-          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接太古广场柏舍</a>
+          <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接太古廣場柏舍</a>
         </div>
       </div>
       <div id="logo">
@@ -70,9 +70,9 @@
             <ul class="nav navbar-nav">
               <li><a href="location.php">位置</a></li>
               <li><a href="residences.php">住宅</a></li>
-              <li><a href="amenities.php">服务及设施</a></li>
+              <li><a href="amenities.php">服務及設施</a></li>
               <li><a href="#" id="open-offsers">最新消息</a></li>
-              <li><a href="#getintouch" id="contact">联系</a></li>
+              <li><a href="#getintouch" id="contact">聯繫</a></li>
               <li class="last"><a target="_blank" href="../pdfs/brochure.pdf">小冊子</a></li>
             </ul>
             <div id="top-bottom">
@@ -80,10 +80,10 @@
               <div class="in-left">
                 <ul class="list-inline">
                   <li><a href="../">ENG</a></li>
-                  <li><a href="../ch">繁</a></li>
+                  <li><a href="../ch-simp/">簡</a></li>
                 </ul>
               </div>
-              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-cn/?lang=zh-cn" class="connect">连接太古广场柏舍</a>
+              <a target="_blank" href="http://www.pacificplaceapartments.com.hk/zh-hk/?lang=zh-hk" class="connect">連接太古廣場柏舍</a>
             </div>
           </div><!-- top-bottom -->
           
@@ -95,11 +95,13 @@
 
 
     <section id="offers">
-      <h1>我们的最新消息</h1>
+      <h1>我們的最新消息</h1>
       <div class="wrapper">
-        <p>感谢您对太古坊柏舍的关注，如欲查询详情或预约参观，请与我们联络。</p>
-        <p><strong>电话</strong> <br>(852) 2844 8323 </p>
-        <p><strong>电邮地址</strong> <br>tpapartments@swireproperties.com</p>
+        <p>感謝您對太古坊柏舍感興趣，如欲查詢詳情或預 約參觀，請與我們聯絡。</p>
+        <p><strong>電話</strong> <br>(852) 2844 8323 </p>
+        <p><strong>電子郵件</strong> <br>tpapartments@swireproperties.com</p>
       </div>
       <a href="#" id="close-offers">x</a>
     </section><!-- offers -->
+</body>
+</html>

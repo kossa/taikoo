@@ -1,8 +1,14 @@
+<?php 
+
+if (strpos($_SERVER['HTTP_USER_AGENT'],"MSIE 8")) {header("X-UA-Compatible: IE=7");}
+if (strpos($_SERVER['HTTP_USER_AGENT'],"MSIE 8")) {header("X-UA-Compatible: IE=EmulateIE7");}
+if (strpos($_SERVER['HTTP_USER_AGENT'],"MSIE 9.0")) {header("X-UA-Compatible: IE=EmulateIE8");}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -11,20 +17,20 @@
     <title>Taikoo Place Apartments</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
 
     <!-- Fonts CSS -->
-    <link href="../css/fonts.css" rel="stylesheet">
+    <link href="../css/fonts.css" rel="stylesheet" media="screen">
 
     <!-- Fonts Awesome CSS -->
-    <link href="../css/font-awesome.min.css" rel="stylesheet">
+    <link href="../css/font-awesome.min.css" rel="stylesheet" media="screen">
 
     <!-- Slick Slider -->
-    <link href="../css/slick.css" rel="stylesheet">
+    <link href="../css/slick.css" rel="stylesheet" media="screen">
 
     <!-- Custom styles for this template -->
-    <link href="../css/style.css" rel="stylesheet">
-    <link href="../css/style-ch.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet" media="screen">
+    <link href="../css/style-ch.css" rel="stylesheet" media="screen">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -32,8 +38,8 @@
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <link href="../css/ie8.css" rel="stylesheet">
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
+      <script src="../js/html5shiv.js"></script>
+      <script src="../js/respond.min.js"></script>
     <![endif]-->
   </head>
 
