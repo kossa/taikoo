@@ -113,10 +113,11 @@
 
     // Contact form submit
     $("#contact-form").submit(function (){
-        var data = $(this).serialize();
+        var data = $(this).serialize(),
+            _this = $(this);
 
         $.ajax({
-            url: 'mail.php',
+            url: window.location.origin + '/taikoo/mail.php',
             type: 'POST',
             dataType: 'json',
             data: data,
@@ -124,6 +125,7 @@
         .done(function(data) {
             type = data.type;
             $('#email-'+type+'-model').modal();
+            _this.find("input, textarea").val("");
         })
         .fail(function(data) {
             console.log(data);

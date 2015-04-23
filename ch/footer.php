@@ -195,6 +195,41 @@
     <!-- /end Copyright-->
 
 
+    <!-- Models Success email -->
+      <div class="modal fade" id="email-success-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title" id="myModalLabel">Thank you for your message</h4>
+            </div>
+            <div class="modal-body">
+              <p>A representative will reach out to you shortly to discuss your inquiry. If you need immediat service please call us at (852) 2844 8323.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    <!-- /end Success email -->
+
+    <!-- Models error email -->
+      <div class="modal fade" id="email-error-model" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title" id="myModalLabel">Error</h4>
+            </div>
+            <div class="modal-body">
+              <p>Your message not sent. If you need immediat service please call us at (852) 2844 8323.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    <!-- /end error email -->
+
+
+
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -12,12 +12,12 @@ $msg .= "message : " . $_POST['message'] . "\r\n";
 
 
 
-$headers = 'To: hadjikouceyla@gmail.com' . "\r\n";
+$headers = 'To: tpapartments@swireproperties.com' . "\r\n";
 $headers .= 'From: '.$_POST['email']. "\r\n";
 
 
 
-$to = "hadjikouceyla@gmail.com";
+$to = "tpapartments@swireproperties.com";
 $subject = "New email";
 
 $res = new stdClass();
