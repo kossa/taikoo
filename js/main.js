@@ -117,7 +117,7 @@
             _this = $(this);
 
         $.ajax({
-            url: window.location.origin + '/taikoo/mail.php',
+            url: window.location.origin + '/mail.php',
             type: 'POST',
             dataType: 'json',
             data: data,
